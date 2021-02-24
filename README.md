@@ -33,10 +33,10 @@ This is an custom designed PCB that extends some of the GPIO pins of the Raspber
 This allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
-* **2x IR sensor**
+* **2x IR sensor**  
   To swipe between pages
 
-* **PIR sensor**
+* **PIR sensor**  
   When motion is detected, the mirror will turn on
 
 * **Power supply**  
