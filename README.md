@@ -21,7 +21,7 @@ PAY ATTENTION | Second Header
 ------------ | -------------
  the dimension of the glass are based on the LED monitor we use! | dssadsadsadsadsadasdas
  
- First Header | Second Header
+Pay attention | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
