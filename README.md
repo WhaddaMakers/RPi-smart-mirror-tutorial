@@ -44,8 +44,8 @@ We've used an Power supply from AUKEY. It has 5X USB 3.0 ports with Quick Charge
 strips. There are 3 spare USB ports.
   This Power suply is also integrated in the Back Plate, but any decent power supply will work
   
-* open source-software (add, create, change different modules). We`ve also designed a wall mounting plate, this allows to
-easily hang the mirror on the wall in landscape or portrait orientation.
+* **open source-software "MagicMirror²"**
+  More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 
 ### You will need to do the following things for the project to work:
 
@@ -59,9 +59,6 @@ easily hang the mirror on the wall in landscape or portrait orientation.
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
 * Basic electronics parts (e.g. Whadda [RPi DIY Kit (VMP501)](https://www.vellemanformakers.com/product/diy-kit-for-raspberry-pi-vmp501/) or [RPi electronics parts pack (VMP500)](https://www.vellemanformakers.com/product/electronic-parts-pack-for-raspberry-pi-vmp500/))
-  - Breadboard
-  - Pushbutton
-  - Jumper cables (Female to Female & Male to Female)
   - [OPTIONAL] RPi GPIO Extension board
 * TCS3200 color sensor module (e.g. [Whadda INSERT WHADDA CODE/VMA325 COLOR SENSOR TCS3200 MODULE](https://www.vellemanformakers.com/product/color-sensor-tcs3200-module-vma325/))
 * [OPTIONAL] 0.96" OLED screen (e.g. [Whadda INSERT WHADDA CODE/VMA438 0.96" OLED SCREEN WITH I2C FOR ARDUINO](https://www.vellemanformakers.com/product/0-96-inch-oled-screen-with-i2c-for-arduino-vma438/))
