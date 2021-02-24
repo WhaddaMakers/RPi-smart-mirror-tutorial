@@ -21,9 +21,9 @@ PAY ATTENTION | Second Header
 ------------ | -------------
  the dimension of the glass are based on the LED monitor we use! | dssadsadsadsadsadasdas
  
-Pay attention | Second Header
+PAY ATTENTION | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+the dimension of the glass are based on the LED monitor we use! | Content from cell 2
 Content in the first column | Content in the second column
  
 * Aluminium Back plate
