@@ -22,7 +22,7 @@ Below you can find the specs/features that you need to know before building this
  
 * **Aluminium Back plate**  
   The backplate is custom made, the technical drawing and production files can be downloaded above.
-It has multiple purposes as metioned before, below a detailed list:    
+  It has multiple purposes as metioned before, below a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
