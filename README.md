@@ -1,1 +1,1 @@
-# Smart-Mirror
+# Smart Mirror
