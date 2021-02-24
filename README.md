@@ -26,10 +26,10 @@ Below you can find the specs/features that you need to know before building this
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
-    see picture below for an example with lasercutted okoume wood 6mm thick side finish.
+      see picture below for an example with lasercutted okoume wood 6mm thick side finish. (lasercut files also available for download above.
   
 * **Connector PCB board**  
-This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi.
+This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. Production files and schematic can also be downloaded above
 This allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
