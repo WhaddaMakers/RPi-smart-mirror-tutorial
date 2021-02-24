@@ -18,8 +18,8 @@ We used an 24 inch  LED monitor from LVC. But any monitor with a HDMI input will
 The glass is custom made and has translucency of about 35%. The borders of the mirror are made opaque.
 The Technical drawing for this glass can be downloaded above (Two-Way Mirror.PDF). 
  
-PAY ATTENTION | Second Header
------------- | -------------
+PAY ATTENTION | 
+------------ | 
 the dimension of the glass are based on the LED monitor we use! |
 Content in the first column | 
  
