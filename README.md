@@ -30,14 +30,14 @@ Below you can find the specs/features that you need to know before building this
   
 * **Connector PCB board**  
 This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. Production files and schematic can also be downloaded above
-This allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
+This board allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
-* **2x IR sensor**  
-  To swipe between pages
+* **IR sensor x2**  
+  The IR sensors are used to swipe between pages, these are also mounted on the backplate
 
 * **PIR sensor**  
-  When motion is detected, the mirror will turn on
+  The motion sensor detects if ther is any movement within its range, the mirror will turn on. Als mountable on the backplate
 
 * **Power supply**  
 We've used an Power supply from AUKEY. It has 5X USB 3.0 ports with Quick Charge function, to power up the Raspberry Pi and the LED
