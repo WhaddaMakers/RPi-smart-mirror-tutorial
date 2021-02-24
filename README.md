@@ -20,7 +20,7 @@ Below you can find the specs/features that you need to know before building this
   The Technical drawing for this glass can be downloaded above (Two-Way Mirror.PDF).  
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use!
  
-* **Aluminium Back plate**  The backplate has multiple purposes as metioned before, below a detaild list:
+* **Aluminium Back plate**  The backplate has multiple purposes as metioned before, below a detaild list:    
   * 
 * Connector PCB board
 * 2x IR sensor
