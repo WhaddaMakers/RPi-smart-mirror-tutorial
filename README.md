@@ -26,7 +26,9 @@ Below you can find the specs/features that you need to know before building this
   * Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
   see picture below for an example with lasercutted okoume wood 6mm thick side finish.
   
-* **Connector PCB board**
+* **Connector PCB board**  This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi.
+This allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
+the need of soldering, and blowing up your Raspberry Pi.
 * 2x IR sensor
 * PIR sensor
 * Power supply 
