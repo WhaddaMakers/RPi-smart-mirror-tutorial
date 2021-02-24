@@ -21,18 +21,23 @@ Below you can find the specs/features that you need to know before building this
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use!
  
 * **Aluminium Back plate**  
-  The backplate is custom made and has multiple purposes as metioned before, below a detaild list:    
-  * Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
-  * Easy wall mounting in landscape or portrait orientation (Explained later)
-  * Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
-  see picture below for an example with lasercutted okoume wood 6mm thick side finish.
+  The backplate is custom made and has multiple purposes as metioned before, below a detailed list:    
+  - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
+  - Easy wall mounting in landscape or portrait orientation
+  - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
+    see picture below for an example with lasercutted okoume wood 6mm thick side finish.
   
 * **Connector PCB board**  
 This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi.
 This allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
-* 2x IR sensor
-* PIR sensor
+
+* **2x IR sensor**
+  To swipe between pages
+
+* **PIR sensor**
+  When motion is detected, the mirror will turn on
+
 * Power supply 
 * open source-software (add, create, change different modules). We`ve also designed a wall mounting plate, this allows to
 easily hang the mirror on the wall in landscape or portrait orientation.
