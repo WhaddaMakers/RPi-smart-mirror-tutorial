@@ -8,7 +8,7 @@ This make's it very easy to customize the layout of your mirror (add, create, ch
 
 The custom designed backplate allows u to: easily mount all the electronics, hang the mirror on the wall (landscape or portrait), customize the sides of your mirror in any material like wood, metal, plastic.
 
-## Project specification & features
+## Specification & features
 
 Below you can find the specs/features that you need to know before building this project!
 
@@ -21,7 +21,8 @@ Below you can find the specs/features that you need to know before building this
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use!
  
 * **Aluminium Back plate**  
-  The backplate is custom made and has multiple purposes as metioned before, below a detailed list:    
+  The backplate is custom made, the technical drawing and production files can be downloaded above.
+  It has multiple purposes as metioned before, below a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm
@@ -38,7 +39,7 @@ the need of soldering, and blowing up your Raspberry Pi.
 * **PIR sensor**
   When motion is detected, the mirror will turn on
 
-* Power supply 
+* **Power supply** 
 * open source-software (add, create, change different modules). We`ve also designed a wall mounting plate, this allows to
 easily hang the mirror on the wall in landscape or portrait orientation.
 
