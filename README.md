@@ -21,6 +21,11 @@ PAY ATTENTION | Second Header
 ------------ | -------------
  the dimension of the glass are based on the LED monitor we use! | dssadsadsadsadsadasdas
  
+ First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+ 
 * Aluminium Back plate
 * Connector PCB board
 * 2x IR sensor
