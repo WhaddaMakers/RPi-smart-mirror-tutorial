@@ -19,7 +19,7 @@ The glass is custom made and has translucency of about 35%. The borders of the m
 The Technical drawing for this glass can be downloaded above (Two-Way Mirror.PDF). 
 PAY ATTENTION | Second Header
 ------------ | -------------
- the dimension of the glass are based on the LED monitor we use!|
+ the dimension of the glass are based on the LED monitor we use! | dssadsadsadsadsadasdas
  
 * Aluminium Back plate
 * Connector PCB board
