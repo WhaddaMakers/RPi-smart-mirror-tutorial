@@ -39,7 +39,11 @@ the need of soldering, and blowing up your Raspberry Pi.
 * **PIR sensor**
   When motion is detected, the mirror will turn on
 
-* **Power supply** 
+* **Power supply**  
+We've used an Power supply from AUKEY. It has 5X USB 3.0 ports with Quick Charge function, to power up the Raspberry Pi and the LED
+strips. There are 3 spare USB ports.
+  This Power suply is also integrated in the Back Plate, but any decent power supply will work
+  
 * open source-software (add, create, change different modules). We`ve also designed a wall mounting plate, this allows to
 easily hang the mirror on the wall in landscape or portrait orientation.
 
