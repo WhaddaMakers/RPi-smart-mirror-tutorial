@@ -54,11 +54,11 @@ strips. There are 3 spare USB ports.
 ## MATERIALS
 
 ### Ingredients:
-*  Raspberry Pi 3B/B+ or 4B set (e.g. [Whadda PI4SET](https://www.vellemanformakers.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/))
+* Raspberry Pi 3B/B+ or 4B set (e.g. [Whadda PI4SET](https://www.vellemanformakers.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/))
     - Raspberry Pi (3B/B+ or 4B)
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
-* 
+* IR obstacle avoidance sensor module  (e.g. [IR SENSOR(VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
 
 ### Tools:
 * Working locally on Raspberry Pi:
