@@ -58,7 +58,13 @@ strips. There are 3 spare USB ports.
     - Raspberry Pi (3B/B+ or 4B)
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
-* IR obstacle avoidance sensor module  (e.g. [IR SENSOR(VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
+* IR obstacle avoidance sensor module  (e.g. [IR sensor VMA330](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
+* PIR motion sensor (e.g. [PIR sensor WPSE314](https://whadda.com/product/pir-motion-sensor-wpse314/))
+* Bolts
+   - M2X14 (x2)
+   - M2.5x8 (x10)
+   - M4x10
+
 
 ### Tools:
 * Working locally on Raspberry Pi:
