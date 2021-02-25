@@ -37,7 +37,7 @@ the need of soldering, and blowing up your Raspberry Pi.
   The IR sensors are used to swipe between pages, these are also mounted on the backplate
 
 * **PIR sensor**  
-  The motion sensor detects if ther is any movement within its range, the mirror will turn on. Als mountable on the backplate
+  The motion sensor detects if ther is any movement within its range, the mirror will turn on. Also mountable on the backplate
 
 * **Power supply**  
 We've used an Power supply from AUKEY. It has 5X USB 3.0 ports with Quick Charge function, to power up the Raspberry Pi and the LED
@@ -58,10 +58,7 @@ strips. There are 3 spare USB ports.
     - Raspberry Pi (3B/B+ or 4B)
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
-* Basic electronics parts (e.g. Whadda [RPi DIY Kit (VMP501)](https://www.vellemanformakers.com/product/diy-kit-for-raspberry-pi-vmp501/) or [RPi electronics parts pack (VMP500)](https://www.vellemanformakers.com/product/electronic-parts-pack-for-raspberry-pi-vmp500/))
-  - [OPTIONAL] RPi GPIO Extension board
-* TCS3200 color sensor module (e.g. [Whadda INSERT WHADDA CODE/VMA325 COLOR SENSOR TCS3200 MODULE](https://www.vellemanformakers.com/product/color-sensor-tcs3200-module-vma325/))
-* [OPTIONAL] 0.96" OLED screen (e.g. [Whadda INSERT WHADDA CODE/VMA438 0.96" OLED SCREEN WITH I2C FOR ARDUINO](https://www.vellemanformakers.com/product/0-96-inch-oled-screen-with-i2c-for-arduino-vma438/))
+* 
 
 ### Tools:
 * Working locally on Raspberry Pi:
