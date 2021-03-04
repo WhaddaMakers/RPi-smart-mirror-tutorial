@@ -63,6 +63,7 @@ strips. There are 3 spare USB ports.
 * Bolts
    - M2X14 (x2)
    - M2.5x8 (x10)
+   - M2.5x5.5 (x2)
    - M4x10
 
 
@@ -107,6 +108,63 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 # Assembling the Smart Mirror
 
-now that you have installed the software, and know all the necessary information about the pieces, it is time to make the smart mirror
+now that you have installed the software, and know all the necessary information about the pieces, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
 
+WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before the backplate is designed to hang horizontal or vertical.
 
+## 1. Place the ALUMINIUM BACK PLATE on its flat side
+
+![Plate](./pictures/1.jpg)
+
+## 2. First thing we will mount are the IR SENSORS. Collect them together with 2x SPACERS and 2x M2.5x8 BOLTS
+![IR+Spacerr](./pictures/2.jpg)
+
+## 3. Place the SPACER over the hole in the bottom left of the BACK PLATE 
+![SPACER+MOUNT](./pictures/3.jpg)
+
+## 4. Place the IR SENSORon the SPACER like in the picture below. allign the hole from the IR SENSOR with the hole of the SPACER and the BACK PLATE
+![SPACER+IR+MOUNT](./pictures/4.jpg)
+
+## 5. Screw in the M2.5x8 BOLT
+![SSCREWIR1](./pictures/5.jpg)
+
+## 6. Repeat the last 3 steps for the IR sensor in the bottom right of the BACK PLATE
+![SSCREWIR2](./pictures/6.jpg)
+
+## 7. U should now be at this point:
+![point1](./pictures/7.jpg)
+
+## 8. Now take the PIR SENSOR together with 2x M2x14 BOLTS
+![PIR](./pictures/8.jpg)
+
+## 9. Place the PIR sensor on the bottom "lip" of the BACK PLATE and screw it down. ATTETTION IF YOU WANT TO MOUNT IT VERTICAL, PLACE PIR SENSOR ON THE LEFT "LIP".
+![PIRscrew1](./pictures/9.jpg)
+
+## 10. Screw in the other BOLT.
+![PIRscrew2](./pictures/10.jpg)
+
+## 11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one)
+![AUKEY](./pictures/11.jpg)
+
+## 11. Place the POWER SUPPLY in the slot of the BACK PLATE like in the pictures below. NOTE THE ORIENTATION
+![AUKEYM1](./pictures/12.jpg)
+![AUKEYM2](./pictures/13.jpg)
+
+## 11. Tighten the power supply with 2x M2.5x5.5 BOLTS
+![AUKEYM3](./pictures/14.jpg)
+
+## 12. Take the Cable assemblies. As mentioned earlier u can make these yourself easily
+![Cable](./pictures/15.jpg)
+
+## 13. Connect the Cables to the 2 IR SENSORS and the PIR sensor like in the picture below (see connection diagram for connections)
+![CableConnect](./pictures/16.jpg)
+
+## 14. Place a ZIP tie around the cable of the left IR SENSOR. The cut it off with cut pliers
+![Zip1](./pictures/17.jpg)
+![Zip2](./pictures/18.jpg)
+
+## 15. Grab your RPI together with 4x SPACERS and 4x M2.5x8 BOLTS
+![RPI](./pictures/19.jpg)
+
+## 16. Place the spacers onto the 4 holes (sligly ont the left of te middle) in the BACKPLATE.
+![RPI](./pictures/20.jpg)
