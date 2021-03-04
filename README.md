@@ -105,7 +105,8 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 6) Enable the I2C interface (necessary to use the OLED display) by running ```sudo raspi-config``` and selecting ```5 Interfacing Options > P5 I2C > Yes```.
 
-## Assembling the Mirror
+# Assembling the Smart Mirror
 
+now that you have installed the software, and know all the necessary information about the pieces, it is time to make the smart mirror
 
 
