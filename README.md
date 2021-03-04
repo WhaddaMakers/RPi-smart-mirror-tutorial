@@ -105,40 +105,7 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 6) Enable the I2C interface (necessary to use the OLED display) by running ```sudo raspi-config``` and selecting ```5 Interfacing Options > P5 I2C > Yes```.
 
-## Installing necessary software
+## Assembling the Mirror
 
-Run the following commands:
 
-1) Make sure the python package manager (pip) is installed:
-```bash
-sudo apt install python3-pip
-```
 
-2) Install git client so we can easily download the project code
-```bash
-sudo apt install git
-```
-
-1) Download the project code
-```bash
-git clone https://github.com/Whaddadraft/Whadda_you_see_RPi.git && cd ./Whadda_you_see_RPi
-```
-
-4) Install the Text-To-Speech module using our install script:
-```bash
-sudo chmod +x install_tts.sh && sudo ./install_tts.sh
-```
-
-5) Install the required python modules:
-```bash
-pip3 install -r requirements.txt
-```
-
-6) If you are using headphones via the 3.5 mm audio jack, use the raspi-config tool to select the forced headphones audio output
-```bash
-sudo raspi-config
-7 Advanced Options > A4 Audio > 1 Headphones
-```
-## Prepping the connection
-
-It is possible to wire everything up without a breadboard using Male-to-Female jumper wires, although using a breadbord and a Raspberry Pi GPIO extension/breakout board will make the process a lot easier. 
