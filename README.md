@@ -116,13 +116,13 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 
 ![Plate](./pictures/1.jpg)
 
-#### 2. First thing we will mount are the IR SENSORS. Collect them together with 2x SPACERS and 2x M2.5x8 BOLTS
+#### 2. The first things we will mount are the IR SENSORS. Collect them, together with 2x SPACERS and 2x M2.5x8 BOLTS
 ![IR+Spacerr](./pictures/2.jpg)
 
 #### 3. Place the SPACER over the hole in the bottom left of the BACK PLATE 
 ![SPACER+MOUNT](./pictures/3.jpg)
 
-#### 4. Place the IR SENSORon the SPACER like in the picture below. allign the hole from the IR SENSOR with the hole of the SPACER and the BACK PLATE
+#### 4. Place the IR SENSOR on the SPACER like in the picture below. allign the hole from the IR SENSOR with the hole from the SPACER and the BACK PLATE
 ![SPACER+IR+MOUNT](./pictures/4.jpg)
 
 #### 5. Screw in the M2.5x8 BOLT
@@ -146,7 +146,7 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 #### 11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one)
 ![AUKEY](./pictures/11.jpg)
 
-#### 11. Place the POWER SUPPLY in the slot of the BACK PLATE like in the pictures below. NOTE THE ORIENTATION
+#### 11. Place the POWER SUPPLY in the slot of the BACK PLATE like in the pictures below. NOTE THE ORIENTATION!
 ![AUKEYM1](./pictures/12.jpg)
 ![AUKEYM2](./pictures/13.jpg)
 
@@ -156,15 +156,36 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 #### 12. Take the Cable assemblies. As mentioned earlier u can make these yourself easily
 ![Cable](./pictures/15.jpg)
 
-#### 13. Connect the Cables to the 2 IR SENSORS and the PIR sensor like in the picture below (see connection diagram for connections)
+#### 13. Connect the Cables to the 2 IR SENSORS and PIR sensor like in the picture below (see connection diagram for connections)
 ![CableConnect](./pictures/16.jpg)
 
-#### 14. Place a ZIP tie around the cable of the left IR SENSOR. The cut it off with cut pliers
+#### 14. Place a ZIP tie around the cable of the left IR SENSOR. Then cut off the excess with cut pliers
 ![Zip1](./pictures/17.jpg)
 ![Zip2](./pictures/18.jpg)
 
 #### 15. Grab your RPI together with 4x SPACERS and 4x M2.5x8 BOLTS
 ![RPI](./pictures/19.jpg)
 
-#### 16. Place the spacers onto the 4 holes (sligly ont the left of te middle) in the BACKPLATE.
-![RPI](./pictures/20.jpg)
+#### 16. Place the SPACERS onto the 4 holes (sligtly on the left of the bottom middle) of the BACKPLATE.
+![RPISpacers](./pictures/20.jpg)
+
+#### 17. Place the RPI on the SPACERS, allign the holes from the RPI with the holes from the SPACER and the BACK PLATE.
+![RPIMOUNT](./pictures/21.jpg)
+
+#### 17. Thighten the RPI with 4x M2.5x8 BOLTS.
+![RPIScrew1](./pictures/22.jpg)
+![RPIScrew2](./pictures/23.jpg)
+
+#### 18. Place a ZIP tie around the cable of the PIR SENSOR. Don't forget to cut off the excess material.
+![PIRZIP](./pictures/24.jpg)
+![PIRZIP2](./pictures/25.jpg)
+
+#### 19. Now place ZIP ties around the PIR and IR SENSOR CABBLES. (see pictures below)
+![PIRZIP3](./pictures/26.jpg)
+![PIRZIP4](./pictures/27.jpg)
+
+#### 20. Take the CONNECTOR BOARD, 4x SPACERS and 4X M2,5X8 BOLTS
+![CB](./pictures/28.jpg)
+
+#### 21. Place the SPACERS onto the 4 holes (sligtly on the right of the bottom middle) of the BACKPLATE.
+![CBspacers](./pictures/29.jpg)
