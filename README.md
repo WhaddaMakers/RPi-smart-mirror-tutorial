@@ -169,7 +169,7 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 #### 16. Place the SPACERS onto the 4 holes (sligtly on the left of the bottom middle) of the BACKPLATE.
 ![RPISpacers](./pictures/20.jpg)
 
-#### 17. Place the RPI on the SPACERS, allign the holes from the RPI with the holes from the SPACER and the BACK PLATE.
+#### 17. Place the RPI on the SPACERS, allign the holes from the RPI with the holes from the SPACERS and the BACK PLATE.
 ![RPIMOUNT](./pictures/21.jpg)
 
 #### 17. Thighten the RPI with 4x M2.5x8 BOLTS.
@@ -189,3 +189,27 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 
 #### 21. Place the SPACERS onto the 4 holes (sligtly on the right of the bottom middle) of the BACKPLATE.
 ![CBspacers](./pictures/29.jpg)
+
+#### 22. Place the CONNECTOR BOARD on the SPACERS. Again, allign the holes from theCONNECTOR BOARD with the holes from the SPACERS and the BACK PLATE.
+![CBMOUNT](./pictures/30.jpg)
+
+#### 23. Tighten the CONNACTOR BOARD with the 4x M2.5x8 BOLTS.
+![CBMOUNT2](./pictures/31.jpg)
+
+#### 24. Connect the LEFT IR SENSOR and PIR SENSOR to the connector board. (See connection diagram)
+![CBCONNECT1](./pictures/32.jpg)
+
+#### 25. Secure the CABLES from the RIGHT IR SENSOR with 2 ZIP TIES on the BACK PLATE, like in the picture below.
+![CABLERIGHTIR](./pictures/33.jpg)
+
+#### 26. Take the UBS A - micro USB cable (USB a - USB C if u use a RPI4)
+![MicroUSB](./pictures/34.jpg)
+
+#### 27. Connect the Micro USB to the RPI
+![CBCONNECT1](./pictures/35.jpg)
+
+#### 28. Secure the Micro usb Cable and the Cable from the LEFT IR sensor with a ZIP TIE.
+![CBCONNECT1](./pictures/36.jpg)
+
+#### 29. Secure the Micro usb Cable and the Cable from the LEFT IR sensor with a ZIP TIE.
+![CBCONNECT1](./pictures/36.jpg)
