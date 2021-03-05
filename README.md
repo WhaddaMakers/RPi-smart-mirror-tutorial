@@ -1,6 +1,6 @@
 # Smart Mirror
 
-The Smart Mirror is an ‘Two-Way mirror’ with an electronic (LED) display behind the glass. 
+The Smart Mirror is an ‘Two-Way mirror’ with an electronic (in oure case:LED) display behind the glass. 
 Swipe between various pages that display information like the latest news, date, weatherforcast, calender, live footage of the ISS, Daily jokes, Broadcasting.... and so much more!
 
 in terms of software we've chosen for the open-source ’MagicMirror²’ software that runs on an Raspberry Pi 2,3B+ or 4B with Raspbian installed. 
@@ -108,9 +108,11 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 # Assembling the Smart Mirror
 
-now that you have installed the software, and know all the necessary information about the pieces, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
+now that you have the software installd, and know all the necessary information about the parts, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
 
 WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before the backplate is designed to hang horizontal or vertical.
+
+## MOUNTING  THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
 
 #### 1. Place the ALUMINIUM BACK PLATE on its flat side
 
@@ -275,4 +277,42 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 
 #### 48. All the electronics are now mounted on the BACK PLATE. U should have something like this:
 ![POINT4](./pictures/61.jpg)
+
+## MOUNTING THE BACK PLATE ON THE MONITOR
+
+#### 1. Place the MONITOR WITH MIRRORGLASS in front of you faced down. DONT SCRATCH THE MIRROR GLASS: Put something underneath it such as a blanket or some foam!
+![Monitor](./pictures/62.jpg)
+
+#### 2.(OPTIONAL) stick the LED STRIP ASSEMBLY on the back of the glass. PAY ATTENTION TO WHERE THE CONNECTOR IS LOCATED!
+![Ledstrip](./pictures/63.jpg)
+
+#### 3. Place the BACKPLATE under the MONITOR/MIRRORGLASS ASSEMBLY, note the orientation!
+![MountMirror1](./pictures/64.jpg)
+
+#### 4. Plug in the HDMI cable to the MONITORS HDMI PORT
+![MountMirror2](./pictures/65.jpg)
+
+#### 5. (OPTIONAL) Plug in LED STRIP ASSEMBLY to the CONNECTOR BOARD
+![MountMirror3](./pictures/66.jpg)
+
+#### 6. Carefully Turn the BACK PLATE on the monitor, make sure the C5 CONNECTOR is still accesible
+![MountMirror4](./pictures/67.jpg)
+
+#### 7. Plug in the C5 CONNECTOR to the MONITORS POWER INPUT
+![MountMirror5](./pictures/68.jpg)
+
+#### 8. Now align the holes of the BACK PLATE with the mounting holes of the MONITOR.
+![MountMirror6](./pictures/69.jpg)
+
+#### 9. Now fasten it down with 4X M4X10 BOLTS.
+![MountMirror7](./pictures/70.jpg)
+
+#### 10. U should now be at this point:
+![MountMirror7](./pictures/71.jpg)
+![MountMirror7](./pictures/72.jpg)
+
+### MOUNTING THE SIDE FINISHES OF THE SMART MIRROR
+
+As metioned earlier, u can customize the side of your mirror. We did this with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded 
+1. 
 
