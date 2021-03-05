@@ -221,5 +221,58 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 ![USBCzip1](./pictures/39.jpg)
 ![USBCzip2](./pictures/40.jpg)
 
-#### 32. Connect the USB A- USB C cable to the power supply, roll up the excess of the cable (CABLE MANAGEMENT!)
-![CBCONNECT1](./pictures/39.jpg)
+#### 32. Connect the USB A- USB C cable to the power supply. Roll up the excess of the cable (CABLE MANAGEMENT!)
+![PowerConnect1](./pictures/41.jpg)
+
+#### 33. Now connect the USB A - Mico USB cable (power RPI) to the power supply. again, roll up the excess of the cable.
+![Cpowerconnect2](./pictures/42.jpg)
+
+#### 34. Secure the 2 USB cables with ZIP TIES.
+![USBZip](./pictures/43.jpg)
+![USBZip2](./pictures/44.jpg)
+
+#### 35. U should now be at this point...
+![POINT2](./pictures/45.jpg)
+
+#### 36. Take the Power - C13 cord, and the C14 to C5 and C7 splitter cord
+![SplitterCord](./pictures/46.jpg)
+
+#### 37. Connect the power cords C13, to the C14 of the splitter cord 
+![SplitterCord2](./pictures/47.jpg)
+![SplitterCord3](./pictures/48.jpg)
+
+#### 38. Place the cable assemblie on the bvackplate lik in the picter below. Pay attention to the orrientatien (spliiter cord upwards)
+![SplitterCord4](./pictures/49.jpg)
+
+#### 39. Then secure it with ZIP TIES!
+![SplitterCord5](./pictures/50.jpg)
+![SplitterCord6](./pictures/51.jpg)
+
+#### 40. U should now be at this point....
+![point3](./pictures/52.jpg)
+
+#### 41. Secure the C5 cable end from the splitter cord with a ZIP TIE like in the picture below
+![C5](./pictures/53.jpg)
+
+#### 42. Connect the C7 cable end from the splitter cord to the power wupply
+![C7](./pictures/54.jpg)
+
+#### 43.Secure the C7 cable end with ZIP TIES
+![C7ZIP1](./pictures/55.jpg)
+![C7ZIP2](./pictures/56.jpg)
+
+#### 44. Take your 40PIN TIBBON CABLE, and connect it to the CONNECTOR BOARD. Note the orientation of the RIBBON CABLE
+![RIBBON1](./pictures/57.jpg)
+
+#### 45. Connect the other end of the ribbon cable tot the RPI. Fold the RIBBON CABLE lik in the picture!!
+![CRIBBON2](./pictures/58.jpg)
+
+#### 46. Take your HDMI - HDMI cable. (If you are using a RPI4 this wil be MICRO HDMI - HDMI)
+![HDMI](./pictures/59.jpg)
+
+#### 47. Connect the HDMI cable to your RPI
+![HDMICONNECT](./pictures/60.jpg)
+
+#### 48. All the electronics are now on the BACK PLATE. It should look something like this:
+![HDMICONNECT](./pictures/61.jpg)
+
