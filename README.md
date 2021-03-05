@@ -308,11 +308,27 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 ![MountMirror7](./pictures/70.jpg)
 
 #### 10. U should now be at this point:
-![MountMirror7](./pictures/71.jpg)
-![MountMirror7](./pictures/72.jpg)
+![MountMirror8](./pictures/71.jpg)
+![MountMirror9](./pictures/72.jpg)
 
 ### MOUNTING THE SIDE FINISHES OF THE SMART MIRROR
 
-As metioned earlier, u can customize the side of your mirror. We did this with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded 
-1. 
+As metioned earlier, u can customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded in the main brach of this project. 
+
+The 8 brackets (2 on each sdie) on the BACKPLATE that will hold the side plates are threaded with M4 thread. so you will need 8 M4 bolts. The length of these bolts depends on the thickness from the material you are going to use.
+
+HORIZONTAL/VERTICAL side plates: depending on which orientation you have chosen to hang up the mirror, there are different side plates.
+RED RECTANGLE: VERTICAL MOUNT
+BLUE RECTANGLE: HORIZONTAL MOUNT
+![Sidefinish](./pictures/73.jpg)
+
+#### 1. Take 8 x M4 BOLTS, as metioned earlier the lentgh depends on the tickness of your side plates. We used M4x12.
+![Bolts](./pictures/74.jpg)
+
+#### 2. Screw in the BOLTS like in the pictures below, each side plate will require 2 BOLTS
+![Bolts](./pictures/75.jpg)
+![Bolts](./pictures/76.jpg)
+![Bolts](./pictures/77.jpg)
+![Bolts](./pictures/78.jpg)
+![Bolts](./pictures/79.jpg)
 
