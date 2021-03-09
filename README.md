@@ -1,4 +1,4 @@
-# Smart Mirror
+# Raspberry Pi smart mirror
 
 This project is a Raspberry Pi based two-way mirror with an electronic (in oure case: LED) display behind semi reflecting glass. 
 The smart mirror allows you to swipe between various pages that display information like the latest news, the weatherforcast, your calender, live footage of the ISS, daily jokes, broadcasting.... and so much more!
@@ -15,12 +15,12 @@ Below, you can find the specs/features that you need to know before building thi
 * **24" LED monitor**  
   We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
   
-* **Two way mirror glass**  
+* **two way mirror glass**  
   The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque.  
   The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
  
-* **Aluminium backplate**  
+* **aluminium backplate**  
   The backplate is custom made, the technical drawing and production files can be downloaded above.  
     It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
@@ -28,21 +28,21 @@ Below, you can find the specs/features that you need to know before building thi
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
     Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
   
-* **Connector PCB board**  
-This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. Production files and schematic can also be downloaded above
-This board allows you to easily connect the Infrared sensors, motion sensor and safely power LED strips without
+* **connector PCB**  
+This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can also be downloaded above.
+This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
-* **IR sensor x2**  
-  The IR sensors are used to swipe between pages, these are also mounted on the backplate
+* **IR sensors**  
+  The IR sensors are used to swipe between pages, these are also mounted onto the backplate
 
 * **PIR sensor**  
-  The motion sensor detects if ther is any movement within its range, the mirror will turn on. Also mountable on the backplate
+  The motion sensor or PIR sensor detects if there is any movement within its range. If so, the mirror will turn on. This is also mountable on the backplate.
 
-* **Power supply**  
-We've used an Power supply from AUKEY. It has 5X USB 3.0 ports with Quick Charge function, to power up the Raspberry Pi and the LED
+* **power supply**  
+We've used an power supply from AUKEY. It has 5X USB 3.0 ports with quick charge function, to power up the Raspberry Pi and the LED
 strips. There are 3 spare USB ports.
-  This Power suply is also integrated in the Back Plate, but any decent power supply will work
+  This Power supply is also integrated in the back plate, but any decent power supply will work.
   
 * **open source-software "MagicMirror²"**
   More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
