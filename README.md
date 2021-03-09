@@ -47,20 +47,18 @@ strips. There are 3 spare USB ports.
 * **open source-software "MagicMirror²"**
   More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 
-### You will need to do the following things for the project to work:
-
 ### Level of difficulty: Intermediate
 
 ## MATERIALS
 
 ### Ingredients:
-* Raspberry Pi 3B/B+ or 4B set (e.g. [Whadda PI4SET](https://www.vellemanformakers.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/))
+* Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/))
     - Raspberry Pi (3B/B+ or 4B)
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
-* IR obstacle avoidance sensor module  (e.g. [IR sensor VMA330](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
-* PIR motion sensor (e.g. [PIR sensor WPSE314](https://whadda.com/product/pir-motion-sensor-wpse314/))
-* Bolts
+* [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
+* [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/))
+* bolts
    - M2X14 (x2)
    - M2.5x8 (x10)
    - M2.5x5.5 (x2)
@@ -68,12 +66,12 @@ strips. There are 3 spare USB ports.
 
 
 ### Tools:
-* Working locally on Raspberry Pi:
+* if you are working locally on Raspberry Pi:
   - HDMI Screen/monitor
   - USB Keyboard
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
-* Working remotely on pc:
+* if you are working remotely on pc:
     - PC
     - RPi & PC connected to same network (WiFi or wired ethernet)
 
