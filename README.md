@@ -4,21 +4,21 @@ This project is a Raspberry Pi based two-way mirror with an electronic (in oure 
 The smart mirror allows you to swipe between various pages that display information like the latest news, the weatherforcast, your calender, live footage of the ISS, daily jokes, broadcasting.... and so much more!
 
 In terms of software, we have chosen for the open-source ’MagicMirror²’ software that runs on an Raspberry Pi 2, 3B+ or 4B with Raspbian installed. 
-This make's it very easy to customize the layout of your mirror (add, create, change different modules). 
+This makes it very easy to customize the layout of your mirror (add, create, change different modules). 
 
-The custom designed backplate allows u to: easily mount all the electronics, hang the mirror on the wall (landscape or portrait), customize the sides of your mirror in any material like wood, metal, plastic.
+The custom designed backplate allows you to: easily mount all the electronics, hang the mirror on the wall (landscape or portrait), and customize the sides of your mirror in any material like wood, metal, plastic.
 
-## Specification & features
+## Specifications & features
 
-Below you can find the specs/features that you need to know before building this project!
+Below, you can find the specs/features that you need to know before building this project!
 
 * **24" LED monitor**  
-  We used an 24 inch  LED monitor from LVC. But any monitor with a HDMI input will work.
+  We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
   
 * **Two way mirror glass**  
-  The glass is custom made and has translucency of about 35%. The borders of the mirror are made opaque.  
-  The Technical drawing for this glass can be downloaded above (Two-Way Mirror.PDF).  
-  **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use!
+  The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque.  
+  The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
+  **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
  
 * **Aluminium Back plate**  
   The backplate is custom made, the technical drawing and production files can be downloaded above.  
