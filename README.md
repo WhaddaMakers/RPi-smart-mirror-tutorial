@@ -95,7 +95,7 @@ From this point on, there are two ways to configure the pi: **on the pi itself**
 2) If you want to use WiFi follow [this guide](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) to configure the WiFi access details before you proceed. 
 Navigate to the SD Card partition named ```BOOT``` and add an empty file called ```ssh```. Make sure that this file doesn't have a file extension. In Windows you might need to check the ```File name extensions``` box in the View tab in file explorer to be able to do this.
 
-3) Insert the MicroSD card into the Pi and connect all of your peripherals (if you are planning to use a seperate monitor). Also plugin a network cable if you are planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+3) Insert the MicroSD card into the Pi and connect all of your peripherals (if you are planning to use a separate monitor). Also plug in a network cable if you are planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
 4) Wait 2-3 minutes until the pi is fully booted. If you're using a seperate monitor, run through the initial Raspberry Pi OS setup wizard to configure network connections, etc... 
 If you're connecting to the pi remotely, go to your network router setup webpage or use an IP-scanner (e.g. [Angry IP Scanner](https://angryip.org/download/)) to find the assigned IP-address of your pi and connect to it by opening Powershell/Terminal and type in the following command: ```ssh pi@<REPLACE WITH IP ADDRESS>```. The default password is ```raspberry```.
@@ -106,64 +106,64 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 # Assembling the Smart Mirror
 
-Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
+Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
 
-WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before the backplate is designed to hang horizontal or vertical.
+WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, the backplate is designed to hang horizontal or vertical.
 
 ## MOUNTING  THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
 
-#### 1. Place the ALUMINIUM BACK PLATE on its flat side
+#### 1. Place the ALUMINIUM BACK PLATE on its flat side.
 
 ![Plate](./pictures/1.jpg)
 
-#### 2. The first things we will mount are the IR SENSORS. Collect them, together with 2x SPACERS and 2x M2.5x8 BOLTS
+#### 2. The first things we will mount are the IR SENSORS. Collect them, together with 2x SPACERS and 2x M2.5x8 BOLTS.
 ![IR+Spacerr](./pictures/2.jpg)
 
-#### 3. Place the SPACER over the hole in the bottom left of the BACK PLATE 
+#### 3. Place the SPACER over the hole in the bottom left of the BACK PLATE.
 ![SPACER+MOUNT](./pictures/3.jpg)
 
-#### 4. Place the IR SENSOR on the SPACER like in the picture below. allign the hole from the IR SENSOR with the hole from the SPACER and the BACK PLATE
+#### 4. Place the IR SENSOR on the SPACER as shown in the picture below. Allign the hole from the IR SENSOR with the hole from the SPACER and the BACK PLATE.
 ![SPACER+IR+MOUNT](./pictures/4.jpg)
 
-#### 5. Screw in the M2.5x8 BOLT
+#### 5. Screw the M2.5x8 BOLT into place.
 ![SSCREWIR1](./pictures/5.jpg)
 
-#### 6. Repeat the last 3 steps for the IR sensor in the bottom right of the BACK PLATE
+#### 6. Repeat the last 3 steps for the IR sensor at the bottom right of the BACK PLATE.
 ![SSCREWIR2](./pictures/6.jpg)
 
-#### 7. U should now be at this point:
+#### 7. You should now be at this point:
 ![point1](./pictures/7.jpg)
 
-#### 8. Now take the PIR SENSOR together with 2x M2x14 BOLTS
+#### 8. Now take the PIR SENSOR and the 2x M2x14 BOLTS.
 ![PIR](./pictures/8.jpg)
 
-#### 9. Place the PIR sensor on the bottom "lip" of the BACK PLATE and screw it down. ATTETTION IF YOU WANT TO MOUNT IT VERTICAL, PLACE PIR SENSOR ON THE LEFT "LIP".
+#### 9. Place the PIR sensor on the bottom "lip" of the BACK PLATE and screw it into place. ATTETTION: IF YOU WANT TO MOUNT IT VERTICAL, PLACE THE PIR SENSOR ON THE LEFT "LIP".
 ![PIRscrew1](./pictures/9.jpg)
 
-#### 10. Screw in the other BOLT.
+#### 10. Screw the other BOLT into place.
 ![PIRscrew2](./pictures/10.jpg)
 
-#### 11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one)
+#### 11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one).
 ![AUKEY](./pictures/11.jpg)
 
-#### 11. Place the POWER SUPPLY in the slot of the BACK PLATE like in the pictures below. NOTE THE ORIENTATION!
+#### 11. Place the POWER SUPPLY in the slot of the BACK PLATE as shown in the pictures below. NOTE THE ORIENTATION!
 ![AUKEYM1](./pictures/12.jpg)
 ![AUKEYM2](./pictures/13.jpg)
 
-#### 11. Tighten the power supply with 2x M2.5x5.5 BOLTS
+#### 11. Tighten the power supply with 2x M2.5x5.5 BOLTS.
 ![AUKEYM3](./pictures/14.jpg)
 
-#### 12. Take the Cable assemblies. As mentioned earlier u can make these yourself easily
+#### 12. Take the cable assemblies. As mentioned earlier, you can make these yourself easily.
 ![Cable](./pictures/15.jpg)
 
-#### 13. Connect the Cables to the 2 IR SENSORS and PIR sensor like in the picture below (see connection diagram for connections)
+#### 13. Connect the cables to the 2 IR SENSORS and PIR sensor as shown in the picture below (see connection diagram for connections).
 ![CableConnect](./pictures/16.jpg)
 
-#### 14. Place a ZIP tie around the cable of the left IR SENSOR. Then cut off the excess with cut pliers
+#### 14. Place a zip tie around the cable of the left IR SENSOR. Then cut off the excess with cut pliers.
 ![Zip1](./pictures/17.jpg)
 ![Zip2](./pictures/18.jpg)
 
-#### 15. Grab your RPI together with 4x SPACERS and 4x M2.5x8 BOLTS
+#### 15. Grab your RPI, the 4x SPACERS and the 4x M2.5x8 BOLTS.
 ![RPI](./pictures/19.jpg)
 
 #### 16. Place the SPACERS onto the 4 holes (sligtly on the left of the bottom middle) of the BACKPLATE.
@@ -176,15 +176,15 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before th
 ![RPIScrew1](./pictures/22.jpg)
 ![RPIScrew2](./pictures/23.jpg)
 
-#### 18. Place a ZIP tie around the cable of the PIR SENSOR. Don't forget to cut off the excess material.
+#### 18. Place a zip tie around the cable of the PIR SENSOR. Don't forget to cut off the excess material.
 ![PIRZIP](./pictures/24.jpg)
 ![PIRZIP2](./pictures/25.jpg)
 
-#### 19. Now place ZIP ties around the PIR and IR SENSOR CABBLES. (see pictures below)
+#### 19. Now place zip ties around the PIR and IR SENSOR CABBLES as shown in the picture below.
 ![PIRZIP3](./pictures/26.jpg)
 ![PIRZIP4](./pictures/27.jpg)
 
-#### 20. Take the CONNECTOR BOARD, 4x SPACERS and 4X M2,5X8 BOLTS
+#### 20. Take the CONNECTOR BOARD, 4x SPACERS and 4X M2,5X8 BOLTS.
 ![CB](./pictures/28.jpg)
 
 #### 21. Place the SPACERS onto the 4 holes (sligtly on the right of the bottom middle) of the BACKPLATE.
