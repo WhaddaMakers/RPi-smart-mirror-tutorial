@@ -20,13 +20,13 @@ Below, you can find the specs/features that you need to know before building thi
   The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
  
-* **Aluminium Back plate**  
+* **Aluminium backplate**  
   The backplate is custom made, the technical drawing and production files can be downloaded above.  
-    It has multiple purposes as metioned before, below a detailed list:    
+    It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
-  - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness material: 10mm.
-    see picture below for an example with lasercutted okoume wood 6mm thick side finish. (lasercut files also available for download above.
+  - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
+    Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
   
 * **Connector PCB board**  
 This is an custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. Production files and schematic can also be downloaded above
