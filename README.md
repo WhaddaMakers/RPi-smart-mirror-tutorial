@@ -196,89 +196,89 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, t
 #### 23. Tighten the CONNECTOR BOARD with the 4x M2.5x8 BOLTS.
 ![CBMOUNT2](./pictures/31.jpg)
 
-#### 24. Connect the LEFT IR SENSOR and PIR SENSOR to the connector board. (See connection diagram)
+#### 24. Connect the LEFT IR SENSOR and PIR SENSOR to the connector board. (Check out the connection diagram)
 ![CBCONNECT1](./pictures/32.jpg)
 
-#### 25. Secure the CABLES from the RIGHT IR SENSOR with 2 ZIP TIES on the BACK PLATE, like in the picture below.
+#### 25. Secure the CABLES from the RIGHT IR SENSOR with 2 ZIP TIES on the BACK PLATE, as shown in the picture below.
 ![CABLERIGHTIR](./pictures/33.jpg)
 
-#### 26. Take the UBS A - MICRO USB CABLE (USB A - USB C if u use a RPI4)
+#### 26. Take the UBS A - MICRO USB CABLE (USB A - USB C if u use a RPI4).
 ![MicroUSB](./pictures/34.jpg)
 
-#### 27. Connect the Micro USB to the RPI
+#### 27. Connect the Micro USB to the RPI.
 ![RPIconnect](./pictures/35.jpg)
 
-#### 28. Secure the USB A - MiICRO USB CABLE and the Cable from the LEFT IR sensor with a ZIP TIE.
+#### 28. Secure the USB A - MICRO USB CABLE and the cable from the LEFT IR sensor with a zip tie.
 ![usBZip](./pictures/36.jpg)
 
-#### 29. Then secure the rest of the USB A - MICRO USB cable with 2 ZIP TIES like in the picture below
+#### 29. Then secure the rest of the USB A - MICRO USB cable with 2 zip ties as shown in the picture below.
 ![USBzip2](./pictures/37.jpg)
 
-#### 30. Take your USB A- USB C CABLE and connect it to the CONNECTOR BOARD
+#### 30. Take your USB A- USB C CABLE and connect it to the CONNECTOR BOARD.
 ![CBUSB](./pictures/38.jpg)
 
-#### 31. Secure the USB A - USB C CABLE with 2 ZIP TIES like in the picture below, Don't do the others yet....
+#### 31. Secure the USB A - USB C CABLE with 2 zip ties as shown in the picture below. Do not secure the others yet!
 ![USBCzip1](./pictures/39.jpg)
 ![USBCzip2](./pictures/40.jpg)
 
-#### 32. Connect the USB A - USB C CABLE to the power supply. Roll up the excess of the cable (CABLE MANAGEMENT!)
+#### 32. Connect the USB A - USB C CABLE to the power supply. Roll up the excess of the cable (CABLE MANAGEMENT is important!).
 ![PowerConnect1](./pictures/41.jpg)
 
-#### 33. Now connect the USB A - MICRO USB CABLE to the power supply. again, roll up the excess of the cable.
+#### 33. Now connect the USB A - MICRO USB CABLE to the power supply. Again, roll up the excess of the cable.
 ![Cpowerconnect2](./pictures/42.jpg)
 
-#### 34. Secure the 2 USB cables with ZIP TIES.
+#### 34. Secure the 2 USB cables with zip ties.
 ![USBZip](./pictures/43.jpg)
 ![USBZip2](./pictures/44.jpg)
 
-#### 35. U should now be at this point...
+#### 35. You should be at this point right now.
 ![POINT2](./pictures/45.jpg)
 
-#### 36. Take the PPOWER - C13 CORD, and the C14 to C5 and C7 SPLITTER CORD
+#### 36. Take the POWER - C13 CORD, and the C14 to C5 and C7 SPLITTER CORD.
 ![SplitterCord](./pictures/46.jpg)
 
-#### 37. Connect the POWER CORDS C13, to the C14 of the SPLITTER CORD
+#### 37. Connect the POWER CORDS C13 to the C14 of the SPLITTER CORD.
 ![SplitterCord2](./pictures/47.jpg)
 ![SplitterCord3](./pictures/48.jpg)
 
-#### 38. Place the cable assembly on the backplate like in the picter below. Pay attention to the orrientatien (SPLITTER CORD upwards)
+#### 38. Place the cable assembly on the backplate as shown in the picture below. Pay attention to the orrientatien (the SPLITTER CORD needs to be upwards).
 ![SplitterCord4](./pictures/49.jpg)
 
-#### 39. Then secure it with ZIP TIES!
+#### 39. Then secure it with zip ties!
 ![SplitterCord5](./pictures/50.jpg)
 ![SplitterCord6](./pictures/51.jpg)
 
-#### 40. U should now be at this point....
+#### 40. The project should look like this by now.
 ![point3](./pictures/52.jpg)
 
-#### 41. Secure the C5 cable end from the splitter cord with a ZIP TIE like in the picture below
+#### 41. Secure the C5 cable end from the splitter cord with a zip tie like in the picture below.
 ![C5](./pictures/53.jpg)
 
-#### 42. Connect the C7 CABLE end from the splitter cord to the power supply
+#### 42. Connect the C7 CABLE end from the splitter cord to the power supply.
 ![C7](./pictures/54.jpg)
 
-#### 43.Secure the C7 CABLE end with ZIP TIES
+#### 43.Secure the C7 CABLE end with zip ties.
 ![C7ZIP1](./pictures/55.jpg)
 ![C7ZIP2](./pictures/56.jpg)
 
 #### 44. Take your 40PIN RIBBON CABLE, and connect it to the CONNECTOR BOARD. Note the orientation of the RIBBON CABLE!
 ![RIBBON1](./pictures/57.jpg)
 
-#### 45. Connect the other end of the RIBBON CABLE tot the RPI. Fold the RIBBON CABLE like in the picture below!
+#### 45. Connect the other end of the RIBBON CABLE tot the RPi. Fold the RIBBON CABLE like in the picture below!
 ![CRIBBON2](./pictures/58.jpg)
 
-#### 46. Take your HDMI - HDMI CABLE. (If you are using a RPI4 this wil be MICRO HDMI - HDMI)
+#### 46. Take your HDMI - HDMI CABLE. (If you are using a RPi 4 this wil be MICRO HDMI - HDMI).
 ![HDMI](./pictures/59.jpg)
 
-#### 47. Connect the HDMI CABLE to your RPI
+#### 47. Connect the HDMI CABLE to your RPi.
 ![HDMICONNECT](./pictures/60.jpg)
 
-#### 48. All the electronics are now mounted on the BACK PLATE. U should have something like this:
+#### 48. All the electronics are now mounted on the BACK PLATE. Everything should look like this:
 ![POINT4](./pictures/61.jpg)
 
-## MOUNTING THE BACK PLATE ON THE MONITOR
+## MOUNTING THE BACK PLATE ONTO THE MONITOR
 
-#### 1. Place the MONITOR WITH MIRRORGLASS in front of you faced down. DONT SCRATCH THE MIRROR GLASS: Put something underneath it such as a blanket or some foam!
+#### 1. Place the MONITOR WITH MIRRORGLASS in front of you, faced down. BE CAREFUL TO NOT SCRATCH THE MIRROR GLASS: Put something underneath it like a blanket or some foam!
 ![Monitor](./pictures/62.jpg)
 
 #### 2.(OPTIONAL) stick the LED STRIP ASSEMBLY on the back of the glass. PAY ATTENTION TO WHERE THE CONNECTOR IS LOCATED!
@@ -287,13 +287,13 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, t
 #### 3. Place the BACKPLATE under the MONITOR/MIRRORGLASS ASSEMBLY, note the orientation!
 ![MountMirror1](./pictures/64.jpg)
 
-#### 4. Plug in the HDMI cable to the MONITORS HDMI PORT
+#### 4. Plug in the HDMI cable to the MONITORS HDMI PORT.
 ![MountMirror2](./pictures/65.jpg)
 
-#### 5. (OPTIONAL) Plug in LED STRIP ASSEMBLY to the CONNECTOR BOARD
+#### 5. (OPTIONAL) Plug in the LED STRIP ASSEMBLY to the CONNECTOR BOARD.
 ![MountMirror3](./pictures/66.jpg)
 
-#### 6. Carefully Turn the BACK PLATE on the monitor, make sure the C5 CONNECTOR is still accesible
+#### 6. Carefully turn the BACK PLATE on the monitor, make sure the C5 CONNECTOR is still accessible.
 ![MountMirror4](./pictures/67.jpg)
 
 #### 7. Plug in the C5 CONNECTOR to the MONITORS POWER INPUT
@@ -302,10 +302,10 @@ WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, t
 #### 8. Now align the holes of the BACK PLATE with the mounting holes of the MONITOR.
 ![MountMirror6](./pictures/69.jpg)
 
-#### 9. Now fasten it down with 4X M4X10 BOLTS.
+#### 9. Now fasten it with 4X M4X10 BOLTS.
 ![MountMirror7](./pictures/70.jpg)
 
-#### 10. U should now be at this point:
+#### 10. The project should look like this:
 ![MountMirror8](./pictures/71.jpg)
 ![MountMirror9](./pictures/72.jpg)
 
@@ -320,10 +320,10 @@ RED RECTANGLE: VERTICAL MOUNT
 BLUE RECTANGLE: HORIZONTAL MOUNT
 ![Sidefinish](./pictures/73.jpg)
 
-#### 1. Take 8 x M4 BOLTS, as metioned earlier the lentgh depends on the tickness of your side plates. We used M4x12.
+#### 1. Take 8 x M4 BOLTS. As metioned earlier, the lentgh depends on the tickness of your side plates. We used M4x12.
 ![Bolts](./pictures/74.jpg)
 
-#### 2. Screw in the BOLTS like in the pictures below, each side plate will require 2 BOLTS
+#### 2. Screw the BOLTS into place as shown in the pictures below, each side plate will require 2 BOLTS
 ![Bolts](./pictures/75.jpg)
 ![Bolts](./pictures/76.jpg)
 ![Bolts](./pictures/77.jpg)
