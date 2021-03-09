@@ -1,9 +1,9 @@
 # Smart Mirror
 
-The Smart Mirror is an ‘Two-Way mirror’ with an electronic (in oure case:LED) display behind the glass. 
-Swipe between various pages that display information like the latest news, date, weatherforcast, calender, live footage of the ISS, Daily jokes, Broadcasting.... and so much more!
+This project is a Raspberry Pi based two-way mirror with an electronic (in oure case: LED) display behind semi reflecting glass. 
+The smart mirror allows you to swipe between various pages that display information like the latest news, the weatherforcast, your calender, live footage of the ISS, daily jokes, broadcasting.... and so much more!
 
-in terms of software we've chosen for the open-source ’MagicMirror²’ software that runs on an Raspberry Pi 2,3B+ or 4B with Raspbian installed. 
+In terms of software, we have chosen for the open-source ’MagicMirror²’ software that runs on an Raspberry Pi 2, 3B+ or 4B with Raspbian installed. 
 This make's it very easy to customize the layout of your mirror (add, create, change different modules). 
 
 The custom designed backplate allows u to: easily mount all the electronics, hang the mirror on the wall (landscape or portrait), customize the sides of your mirror in any material like wood, metal, plastic.
