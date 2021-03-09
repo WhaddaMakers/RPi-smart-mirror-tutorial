@@ -52,12 +52,12 @@ strips. There are 3 spare USB ports.
 ## MATERIALS
 
 ### Ingredients:
-* Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/))
+* Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
     - Good quality USB power supply
     - \>= 8 GB MicroSD Card
-* [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/))
-* [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/))
+* [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
+* [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/)
 * bolts
    - M2X14 (x2)
    - M2.5x8 (x10)
@@ -90,14 +90,14 @@ strips. There are 3 spare USB ports.
 
 1) If you don't have a (recent) version of Raspberry Pi OS installed on the Pi's microSD card, go to [raspberrypi.org/downloads](https://www.raspberrypi.org/downloads/) and download the latest version of the Raspberry Pi Imager. Use the Raspberry Pi Imager to flash the MicroSD card with the latest verion of Raspberry Pi OS. 
 
-From this point on there are 2 ways to configure the pi: **on the pi itself** by connecting the necessary peripherals (mouse, keyboard and screen) to it directly, or **using your pc to connect to it remotely**. If you plan to use the 1st option you can skip step 2 and proceed directly to step 3.
+From this point on, there are two ways to configure the pi: **on the pi itself** by connecting the necessary peripherals (mouse, keyboard and screen) to it directly, or **using your pc to connect to it remotely**. If you plan to use the first option, you can skip step 2 and proceed directly to step 3.
 
 2) If you want to use WiFi follow [this guide](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) to configure the WiFi access details before you proceed. 
 Navigate to the SD Card partition named ```BOOT``` and add an empty file called ```ssh```. Make sure that this file doesn't have a file extension. In Windows you might need to check the ```File name extensions``` box in the View tab in file explorer to be able to do this.
 
-3) Insert the MicroSD card into the Pi and connect all of your peripherals (if you're planning to use a seperate monitor). Also plugin a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+3) Insert the MicroSD card into the Pi and connect all of your peripherals (if you are planning to use a seperate monitor). Also plugin a network cable if you are planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
-4) Wait 2-3 min until the pi is fully booted. If you're using a seperate monitor, run through the initial Raspberry Pi OS setup wizard to configure network connections, etc... 
+4) Wait 2-3 minutes until the pi is fully booted. If you're using a seperate monitor, run through the initial Raspberry Pi OS setup wizard to configure network connections, etc... 
 If you're connecting to the pi remotely, go to your network router setup webpage or use an IP-scanner (e.g. [Angry IP Scanner](https://angryip.org/download/)) to find the assigned IP-address of your pi and connect to it by opening Powershell/Terminal and type in the following command: ```ssh pi@<REPLACE WITH IP ADDRESS>```. The default password is ```raspberry```.
 
 5) To make sure your pi is fully up-to-date, run the following command: ```sudo apt update && sudo apt upgrade -y```
@@ -106,7 +106,7 @@ If you're connecting to the pi remotely, go to your network router setup webpage
 
 # Assembling the Smart Mirror
 
-now that you have the software installd, and know all the necessary information about the parts, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
+Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. this will take up to 2hours (with our parts).
 
 WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before the backplate is designed to hang horizontal or vertical.
 
