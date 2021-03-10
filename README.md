@@ -1,6 +1,6 @@
 # Raspberry Pi smart mirror
 
-![POINT4](./pictures/Rpi_smart_mirror.jpg)
+![POINT4](./pictures/Rpi_smart_mirror2.jpg)
 
 This project is a Raspberry Pi based two-way mirror with an electronic (in oure case: LED) display behind semi reflecting glass. 
 The smart mirror allows you to swipe between various pages that display information like the latest news, the weatherforcast, your calender, live footage of the ISS, daily jokes, broadcasting.... and so much more!
