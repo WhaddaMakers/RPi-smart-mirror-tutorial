@@ -23,7 +23,7 @@ Below, you can find the specs/features that you need to know before building thi
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
  
 * **aluminium backplate**  
-  The backplate is custom made, the technical drawing and production files can be downloaded above.  
+  The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder.  
     It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
@@ -31,7 +31,7 @@ Below, you can find the specs/features that you need to know before building thi
     Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
   
 * **connector PCB**  
-This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can also be downloaded above.
+This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder.
 This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
@@ -56,55 +56,57 @@ strips. There are 3 spare USB ports.
 ### Ingredients:
 * Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
-    - Good quality USB power supply
     - \>= 8 GB MicroSD Card
+* 24" monitor with HDMI input
+* Two way mirror glass
+* Aluminium Backplate
 * [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
 * [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/)
-* bolts
+* Sensor Cables 650mm (x3)
+* USB A - Micro USB cable (min. 50cm long)
+* USB A - USB C cable (min. 50cm long)
+* Connector PCB
+* [OPTIONAL] LED strip assembly
+* Cable ties (x20)
+* Aukey Power adaptor
+* Power cord to C13
+* Splitter cord C14 TO C5 & C7
+* Bolts
    - M2X14 (x2)
    - M2.5x8 (x10)
    - M2.5x5.5 (x2)
-   - M4x10
-
+   - M4x10 (x4)
+* 40-PIN ribbon cable Female- Female
+* HDMI - HDMI cable (short as possible, we used 30cm long one)
+* Plastic spacer 5mm height M3 (x12)
+* Strong double sided tape
 
 ### Tools:
-* if you are working locally on Raspberry Pi:
-  - HDMI Screen/monitor
   - USB Keyboard
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
-* if you are working remotely on pc:
-    - PC
-    - RPi & PC connected to same network (WiFi or wired ethernet)
-
-
-
 
 ## PROGRAMMING  the development board
 
 ### Dev board: Raspberry Pi (3B/B+, 4B)
 
-### Code language: Python (3)
+### Code language: Javascript, CSS
 
 ### Difficulty: Intermediate
 
-### Preparations:
+### Programming the Rasberry Pi
 
-1) If you don't have a (recent) version of Raspberry Pi OS installed on the Pi's microSD card, go to [raspberrypi.org/downloads](https://www.raspberrypi.org/downloads/) and download the latest version of the Raspberry Pi Imager. Use the Raspberry Pi Imager to flash the MicroSD card with the latest verion of Raspberry Pi OS. 
+To install the software onto your Raspberry Pi easily, We've made an image file, that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
-From this point on, there are two ways to configure the pi: **on the pi itself** by connecting the necessary peripherals (mouse, keyboard and screen) to it directly, or **using your pc to connect to it remotely**. If you plan to use the first option, you can skip step 2 and proceed directly to step 3.
+![UI1](./pictures/Page1.png)
 
-2) If you want to use WiFi follow [this guide](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) to configure the WiFi access details before you proceed. 
-Navigate to the SD Card partition named ```BOOT``` and add an empty file called ```ssh```. Make sure that this file doesn't have a file extension. In Windows you might need to check the ```File name extensions``` box in the View tab in file explorer to be able to do this.
+![UI2](./pictures/Page2.png)
 
-3) Insert the MicroSD card into the Pi and connect all of your peripherals (if you are planning to use a separate monitor). Also plug in a network cable if you are planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+![UI3](./pictures/Page3.png)
 
-4) Wait 2-3 minutes until the pi is fully booted. If you're using a seperate monitor, run through the initial Raspberry Pi OS setup wizard to configure network connections, etc... 
-If you're connecting to the pi remotely, go to your network router setup webpage or use an IP-scanner (e.g. [Angry IP Scanner](https://angryip.org/download/)) to find the assigned IP-address of your pi and connect to it by opening Powershell/Terminal and type in the following command: ```ssh pi@<REPLACE WITH IP ADDRESS>```. The default password is ```raspberry```.
+![UI4](./pictures/Page4.png)
 
-5) To make sure your pi is fully up-to-date, run the following command: ```sudo apt update && sudo apt upgrade -y```
 
-6) Enable the I2C interface (necessary to use the OLED display) by running ```sudo raspi-config``` and selecting ```5 Interfacing Options > P5 I2C > Yes```.
 
 # Assembling the Smart Mirror
 
