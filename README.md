@@ -98,16 +98,20 @@ strips. There are 3 spare USB ports.
 
 To install the software onto your Raspberry Pi easily, We've made an image file, that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
-This is the front Page of te Mirror. It Shows the Date/time, daily news from over the world, Belgium holidays( can be changed to any country), different time zones.... When u power up the PI, u should see this.
+#### The front Page 
+It Shows the Date/time, daily news from over the world, Belgium holidays( can be changed to any country), different time zones.... When powering up the PI, u should see this.
 ![UI1](./pictures/Page1.png)
 
-Page 2 is our "SPACE" page. It shows various information about past en future space travels, LIVE ISS footage, current moonphase.... 
+#### Page 2 
+The "SPACE" page. It shows various information about past en future space travels, LIVE ISS footage, current moonphase.... 
 ![UI2](./pictures/Page2.png)
 
-page 3 Displays Reddit gaming topics, featured games, A qoute of the day and a new coctail every day!
+##### Page 3 
+Displays Reddit gaming topics, featured games, A qoute of the day and a new coctail every day!
 ![UI3](./pictures/Page3.png)
 
-On page 4 u can broadcast 
+##### Page 4 
+Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
 
