@@ -159,8 +159,8 @@ For now we will just put some settings right, Follow the steps below:
  * Type `pm2 stop mm` this is the command tos stop the MagicMirror Software 
     * other usefull commands are 
         * `pm2 restart mm`
- * If the keyboardlayout is wrong go to `Application menu (top left corner: RPI LOGO) > Preferences > Keyboard and mouse` 
-    * Then select `Keyboard layout` and selct you country under the drop down menu. 
+        * If the keyboardlayout is wrong go to `Application menu (RPI logo top left corner) > Preferences > Keyboard and mouse` 
+        * Then click `Keyboard layout` and select you country under the drop down menu. 
 
 #### 1. Setting your country
 
