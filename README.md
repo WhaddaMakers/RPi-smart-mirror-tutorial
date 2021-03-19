@@ -114,11 +114,13 @@ Displays Reddit gaming topics, featured games, A qoute of the day and a new coct
 Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
-### To install our image on your SD card (**MIN. 8GB**) follow the steps below.
+### installing our image on your SD card (**MIN. 8GB**)
+If you like our interface, you can follow the steps below to install it on your Raspberry Pi.
+Otherwise you can download a standard version of the [MagicMirror software](https://magicmirror.builders/) and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
 
 #### 1. Installing Raspberry Pi Imager
 
-To burn the image on an SD card, we wil need a software to do this. Download Raspberry [RPi imager](https://www.raspberrypi.org/software/). Then run the installer and follow the prompts to complete the setup.
+To burn the image on an SD card, we wil need a software to do this. Download the [Raspberry Pi Imager](https://www.raspberrypi.org/software/) here. Then run the installer and follow the prompts to complete the setup.
 ![IMG1](./pictures/Imager1.PNG)
 
 #### 2. Downloading the Image
