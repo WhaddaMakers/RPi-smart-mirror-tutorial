@@ -129,9 +129,9 @@ Download the SmartMirror.img file above (5.6GB). as mentioned before you will ne
 before we can burn the image file, you will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
 
 * Plug your SD card in the computer. 
-* Wipe it by right clicking on the drive, then choose format 
+* Wipe it by right clicking on the drive, then choose format.
 ![FRMT1](./pictures/Format1.PNG)
-* Under file System, choose NTFS. the rest should be good by default 
+* Under file System, choose NTFS. the rest should be good by default.
 ![FRMT2](./pictures/Format2.PNG)
 
 #### 3. Burning the Image
