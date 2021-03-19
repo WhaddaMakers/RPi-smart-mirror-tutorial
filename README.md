@@ -114,7 +114,13 @@ Displays Reddit gaming topics, featured games, A qoute of the day and a new coct
 Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
+To install our image on your SD card (**MIN. 8GB**) follow the steps below.
 
+#### 1. Installing Raspberry Pi Imager
+
+To burn the image on an SD card, we wil need a software to do this. Download Raspberry Pi Imager [RPi imager](https://www.raspberrypi.org/software/). Then run the installer and follow the prompts to complete the setup.
+
+####2. 
 # Assembling the Smart Mirror
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
