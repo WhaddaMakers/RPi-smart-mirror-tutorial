@@ -201,7 +201,7 @@ The config file also contains a `modules` section that controls which modules ar
 ![RPI11](./pictures/RPI11.png)
 * In the example below u can see the configuration of the REDDIT module. 
 ![RPI12](./pictures/RPI12.png)
-* Each module has its own github page with all the explanation of variables, function.... wich are all described here [3rd party modules GitHub](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
+* Each module has its own github page with all the explanation about it here [3rd party modules GitHub](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
 for example the Reddit module settings can u find here: [Reddit module](https://github.com/kjb085/MMM-Reddit)
 ![RPI13](./pictures/RPI13.png)
 
