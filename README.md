@@ -87,10 +87,6 @@ strips (optional). There are 3 spare USB ports.
 
 ## Programming the Rasberry Pi
 
-#### Dev board: Raspberry Pi (3B/B+, 4B)
-#### Code language: Javascript, CSS
-#### Difficulty: Intermediate
-
 To install the software onto your Raspberry Pi easily, We've made an image file, that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
 #### The front Page 
@@ -124,15 +120,16 @@ Download the SmartMirror.img file above (5.6GB). As mentioned before, you will n
 
 #### 3. Formating your SD card
 
-before we can burn the image file, you will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
+Before we can burn the image file, We will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
 
-* Plug your SD card in the computer. 
-* Wipe it by right clicking on the drive, then choose format.
-* ![FRMT1](./pictures/Format1.PNG)
+* Plug your SD card in a computer. 
+* On Windows, open File Explorer and right click on the drive, then choose format.
+
 * Under file System, choose NTFS. the rest should be good by default.
-* ![FRMT2](./pictures/Format2.PNG)
+![FRMT1](./pictures/Format1.PNG)
 
 #### 3. Burning the Image
+![FRMT2](./pictures/Format2.PNG)
 
 * Open the Raspberry Pi Imager
 * **Click** CHOOSE OS and then select **USE CUSTOM** 
