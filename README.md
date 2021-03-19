@@ -146,12 +146,15 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 ## Frst time setup
 
-If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals(mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals (mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
-Now wait for it to boot up, this will take couple of minutes depending on what Pi you use.The MagicMirrorsoftware should also start automatically.
+Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirrorsoftware should also start automatically and you shouold see THE FRONT PAGE.  
 
+For now we will just put some settings right, since we not yet assembled the mirror(and we cant swipe between pages...):
 
-For now we will just put some settings right, since we not yet assembled the mirror:
+#### 1. Closing the MagicMirror software (For Now)
+Press 'F11' on your keyboard (this will make the MagicMirror window smaller) and open the terminal with 'CTRL + T'
+
 #### 1. Setting your country
 
 
