@@ -133,7 +133,6 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 #### 3. Burning the Image
 
-
 * Open the Raspberry Pi Imager
 * **Click** CHOOSE OS and then select **USE CUSTOM** 
 ![IMG2](./pictures/Imager2.PNG)
@@ -148,7 +147,7 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals (mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
-Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirrorsoftware should also start automatically and you shouold see THE FRONT PAGE.  
+Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirrorsoftware should also start automatically and you should see THE FRONT PAGE.  
 
 For now we will just put some settings right, Follow the steps below:
 
@@ -157,23 +156,48 @@ For now we will just put some settings right, Follow the steps below:
  * Press `F11` on your keyboard (this will make the MagicMirror window smaller) 
  * then open the terminal with `CTRL + T`
  * Type `pm2 stop mm` this is the command tos stop the MagicMirror Software 
-   
+![RPI1](./pictures/RPI1.png)
      * other usefull commands are 
         * `pm2 restart mm` restarts the software
         * `pm2 logs mm` shows log files
         * `pm2 show mm` Shows proces information
      * If the keyboardlayout is wrong go to `Application menu (RPI logo top left corner) > Preferences > Keyboard and mouse` 
+![RPI2](./pictures/RPI2.png)
      * Then click `Keyboard layout` and select you country under the drop down menu. 
+![RPI3](./pictures/RPI3.png)
 
-#### 1. Setting your country
+#### 2. Connecting with WiFi
 
+If you are going use an ehternet (UTP) cable you can skip this step.
+otherwise you can connect to a Wifi acces point by Clicking on the 'connection icon' in the top right corner...
+![RPI4](./pictures/RPI4.png)
 
-#### 2. Language setting
+#### 3. Horizontal or Vertical display
 
+As mentioned before you can choose to hang the Mirror horizontally or vertically. If you are going to hang it horizontally you can skip this.
+if you plan to hang it vertically we will have to change the displaya orientation:
+* open the terminal with `ctrl + alt + T` and type ` sudo nano /boot/config.txt`
+![RPI4](./pictures/RPI5.png)
+* change the line `display_rotate=0` to `display_rotate=1`
+![RPI4](./pictures/RPI6.png)
+* Close and save the file wit `CTRL+X` then `ENTER` 
+![RPI4](./pictures/RPI7.png)
+* The changes only take effect after a reboot. In the terminal typ `sudo reboot`
 
-## The MagicMirror configuration file
+### The MagicMirror configuration file
 
-This file is located under root
+The config file controls some important features of your mirror, as well as the various modules. It is written in JavaScript, this language is very sensitive to syntax errors. for example a misplaced `{` or `}` and the software will not work...
+The config file also contains a `modules` section that controls which modules are loaded and where they’re placed.
+
+### Some Things u need to know!
+* The congif.js file is located in the file manager under `/home/pi/MagicMirror/Config`
+![RPI6](./pictures/RPI6.png)
+* at the top of the config.js file U can change the unit system: `metric or imperial`, language `en` (uses the official abbreviations) and the timeformat `12 or 24`.
+![RPI7](./pictures/RPI7.png)
+* We have divided the config file with the modules per page using brackets
+![RPI8](./pictures/RPI8.png)
+*
+
 # Assembling the Smart Mirror
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
