@@ -87,15 +87,11 @@ strips (optional). There are 3 spare USB ports.
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
 
-## PROGRAMMING  the development board
+## Programming the Rasberry Pi
 
-### Dev board: Raspberry Pi (3B/B+, 4B)
-
-### Code language: Javascript, CSS
-
-### Difficulty: Intermediate
-
-### Programming the Rasberry Pi
+#### Dev board: Raspberry Pi (3B/B+, 4B)
+#### Code language: Javascript, CSS
+#### Difficulty: Intermediate
 
 To install the software onto your Raspberry Pi easily, We've made an image file, that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
