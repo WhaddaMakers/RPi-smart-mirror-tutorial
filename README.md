@@ -129,16 +129,16 @@ Download the SmartMirror.img file above (5.6GB). as mentioned before you will ne
 before we can burn the image file, you will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
 
 * Plug your SD card in the computer. 
-* Wipe it by right clicking on the drive, then choose format ![FRMT1](./pictures/Format1.png)
-* Under file System, choose NTFS. the rest should be good by default ![FRMT2](./pictures/Format2.png)
+* Wipe it by right clicking on the drive, then choose format ![FRMT1](./pictures/Format1.PNG)
+* Under file System, choose NTFS. the rest should be good by default ![FRMT2](./pictures/Format2.PNG)
 
 #### 3. Burning the Image
 
-* Open the Raspberry Pi Imager ![IMG1](./pictures/Imager1.png)
-* **Click** CHOOSE OS and then select **USE CUSTOM** ![IMG2](./pictures/Imager2.png)
-* Navigate and select the SmartMirror.img file you just downloaded ![IMG3](./pictures/Imager3.png)
-* Now **click** storage and choose the SD card we formatted earlier. ![IMG4](./pictures/Imager4.png)
-* Its time to WRITE the image, this will take several minutes..... ![IMG5](./pictures/Imager5.png)
+* Open the Raspberry Pi Imager ![IMG1](./pictures/Imager1.PNG)
+* **Click** CHOOSE OS and then select **USE CUSTOM** ![IMG2](./pictures/Imager2.PNG)
+* Navigate and select the SmartMirror.img file you just downloaded ![IMG3](./pictures/Imager3.PNG)
+* Now **click** storage and choose the SD card we formatted earlier. ![IMG4](./pictures/Imager4.PNG)
+* Its time to WRITE the image, this will take several minutes..... ![IMG5](./pictures/Imager5.PNG)
 
 # Assembling the Smart Mirror
 
