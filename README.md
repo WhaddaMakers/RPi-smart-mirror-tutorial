@@ -84,10 +84,12 @@ strips (optional). There are 3 spare USB ports.
   - USB Keyboard
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
+  - Hex keys
+  - .....
 
-## Programming the RasPberry Pi
+## Programming the RasBerry Pi
 
-To install the software onto your Raspberry Pi easily, ze've made an image file that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
+To install the software onto your Raspberry Pi easily, we've made an image file that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
 #### The front Page 
 It Shows the Date/time, daily news from over the world, Belgium holidays( can be changed to any country), different time zones.... When powering up the PI, u should see this.
