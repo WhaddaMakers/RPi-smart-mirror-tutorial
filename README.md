@@ -107,7 +107,7 @@ Connect your phone/tablet using screen mirroring
 
 ### installing the image on your SD card (**MIN. 8GB**)
 If you like our interface, you can follow the steps below to install it on your Raspberry Pi.
-Otherwise you can download a standard version of the [MagicMirror software](https://magicmirror.builders/) and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
+Otherwise you can download a standard version of the https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
 
 #### 1. Installing Raspberry Pi Imager
 
@@ -154,7 +154,7 @@ For now we will just put some settings right, Follow the steps below:
 #### 1. Close the MagicMirror software (For Now)
 
  * Press `F11` on your keyboard (this will make the MagicMirror window smaller) 
- * then open the terminal with `CTRL + T`
+ * then open the terminal with `CTRL + ALT + T`
  * Type `pm2 stop mm` this is the command to stop the MagicMirror Software 
 ![RPI1](./pictures/RPI1.png)
      * other usefull commands are 
@@ -176,13 +176,13 @@ otherwise you can connect to a Wifi acces point by Clicking on the 'connection i
 
 As mentioned before you can choose to hang the Mirror horizontally or vertically. If you are going to hang it horizontally you can skip this.
 if you plan to hang it vertically, we will have to change the display orientation:
-* open the terminal with `ctrl + alt + T` and type ` sudo nano /boot/config.txt`
+* open the terminal with `CTRL + ALT + T` and type ` sudo nano /boot/config.txt`
 ![RPI5](./pictures/RPI5.png)
 * change the line `display_rotate=0` to `display_rotate=1`
 ![RPI6](./pictures/RPI6.png)
-* Close and save the file wit `CTRL+X` then `ENTER` 
+* Close and save the file wit `CTRL+X` then `Y` and press `ENTER` 
 ![RPI7](./pictures/RPI7.png)
-* The changes only take effect after a reboot. In the terminal typ `sudo reboot`
+* The changes only take effect after a reboot. In the terminal type `sudo reboot` and press `ENTER`
 ![RPI8](./pictures/RPI8.png)
 
 ### The MagicMirror configuration file
@@ -197,7 +197,11 @@ The config file also contains a `modules` section that controls which modules ar
 ![RPI10](./pictures/RPI10.png)
 * We have divided the config file with the modules per page using brackets
 ![RPI11](./pictures/RPI11.png)
-*
+* In the example below u can see the configuration of the REDDIT module. 
+![RPI12](./pictures/RPI12.png)
+* Each module has its own github page with all the explanation of variables, function.... wich are all described here [3rd party modules GitHub](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
+for example the Reddit module settings can u find here: [Reddit module](https://github.com/kjb085/MMM-Reddit)
+![RPI13](./pictures/RPI13.png)
 
 # Assembling the Smart Mirror
 
