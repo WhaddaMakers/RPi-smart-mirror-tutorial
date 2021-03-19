@@ -125,11 +125,14 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 * Plug your SD card in a computer. 
 * On Windows, open File Explorer and right click on the drive, then choose format.
 
-* Under file System, choose NTFS. the rest should be good by default.
 ![FRMT1](./pictures/Format1.PNG)
 
-#### 3. Burning the Image
+* Under file System, choose NTFS. the rest should be good by default.
+
 ![FRMT2](./pictures/Format2.PNG)
+
+#### 3. Burning the Image
+
 
 * Open the Raspberry Pi Imager
 * **Click** CHOOSE OS and then select **USE CUSTOM** 
