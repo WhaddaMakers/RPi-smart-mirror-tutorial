@@ -131,9 +131,9 @@ before we can burn the image file, you will have to format the SD card. ATTENTIO
 
 * Plug your SD card in the computer. 
 * Wipe it by right clicking on the drive, then choose format.
-  ![FRMT1](./pictures/Format1.PNG)
+* ![FRMT1](./pictures/Format1.PNG)
 * Under file System, choose NTFS. the rest should be good by default.
-  ![FRMT2](./pictures/Format2.PNG)
+* ![FRMT2](./pictures/Format2.PNG)
 
 #### 3. Burning the Image
 
