@@ -115,7 +115,6 @@ Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
 
-
 # Assembling the Smart Mirror
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
