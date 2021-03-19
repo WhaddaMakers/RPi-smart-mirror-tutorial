@@ -127,7 +127,7 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 ![FRMT1](./pictures/Format1.PNG)
 
-* Under file System, choose NTFS. the rest should be good by default.
+* Under file System, choose NTFS. the rest should be good by default. (you can give the SD-card a name in the `Volume label` textbox
 
 ![FRMT2](./pictures/Format2.PNG)
 
@@ -150,10 +150,17 @@ If everything went good in the steps above... you can mount the SD card into the
 
 Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirrorsoftware should also start automatically and you shouold see THE FRONT PAGE.  
 
-For now we will just put some settings right, since we not yet assembled the mirror(and we cant swipe between pages...):
+For now we will just put some settings right, Follow the steps below:
 
 #### 1. Closing the MagicMirror software (For Now)
-Press 'F11' on your keyboard (this will make the MagicMirror window smaller) and open the terminal with 'CTRL + T'
+
+ * Press `F11` on your keyboard (this will make the MagicMirror window smaller) 
+ * then open the terminal with `CTRL + T`
+ * Type `pm2 stop mm` this is the command tos stop the MagicMirror Software 
+    * other usefull commands are 
+        * `pm2 restart mm`
+ * If the keyboardlayout is wrong go to `Application menu (top left corner: RPI LOGO) > Preferences > Keyboard and mouse` 
+    * Then select `Keyboard layout` and selct you country under the drop down menu. 
 
 #### 1. Setting your country
 
