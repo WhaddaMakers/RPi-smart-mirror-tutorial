@@ -118,7 +118,8 @@ Connect your phone/tablet using screen mirroring
 
 #### 1. Installing Raspberry Pi Imager
 
-To burn the image on an SD card, we wil need a software to do this. Download Raspberry Pi Imager [RPi imager](https://www.raspberrypi.org/software/). Then run the installer and follow the prompts to complete the setup.
+To burn the image on an SD card, we wil need a software to do this. Download Raspberry [RPi imager](https://www.raspberrypi.org/software/). Then run the installer and follow the prompts to complete the setup.
+![IMG1](./pictures/Imager1.PNG)
 
 #### 2. Downloading the Image
 
@@ -137,7 +138,6 @@ before we can burn the image file, you will have to format the SD card. ATTENTIO
 #### 3. Burning the Image
 
 * Open the Raspberry Pi Imager
-![IMG1](./pictures/Imager1.PNG)
 * **Click** CHOOSE OS and then select **USE CUSTOM** 
 ![IMG2](./pictures/Imager2.PNG)
 * Navigate and select the SmartMirror.img file you just downloaded 
