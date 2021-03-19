@@ -149,6 +149,11 @@ before we can burn the image file, you will have to format the SD card. ATTENTIO
 * Its time to WRITE the image, this will take several minutes..... 
 ![IMG5](./pictures/Imager5.PNG)
 
+## Understanding the firmware
+
+If everything went good in the steps above, you can mount the SD card in your pi,  and power it up. 
+
+
 # Assembling the Smart Mirror
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
