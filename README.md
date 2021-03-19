@@ -21,6 +21,7 @@ Below, you can find the specs/features that you need to know before building thi
   The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque.  
   The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
   **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
+  
  
 * **aluminium backplate**  
   The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder.  
@@ -31,7 +32,7 @@ Below, you can find the specs/features that you need to know before building thi
     Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
   
 * **connector PCB**  
-This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder.
+This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder (if you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB).
 This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
@@ -43,7 +44,7 @@ the need of soldering, and blowing up your Raspberry Pi.
 
 * **power supply**  
 We've used an power supply from AUKEY. It has 5X USB 3.0 ports with quick charge function, to power up the Raspberry Pi and the LED
-strips. There are 3 spare USB ports.
+strips (optional). There are 3 spare USB ports.
   This Power supply is also integrated in the back plate, but any decent power supply will work.
   
 * **open source-software "MagicMirror²"**
@@ -114,7 +115,7 @@ Displays Reddit gaming topics, featured games, A qoute of the day and a new coct
 Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
-### installing our image on your SD card (**MIN. 8GB**)
+### installing the image on your SD card (**MIN. 8GB**)
 If you like our interface, you can follow the steps below to install it on your Raspberry Pi.
 Otherwise you can download a standard version of the [MagicMirror software](https://magicmirror.builders/) and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
 
@@ -151,7 +152,9 @@ before we can burn the image file, you will have to format the SD card. ATTENTIO
 
 ## Understanding the firmware
 
-If everything went good in the steps above, you can mount the SD card in your pi,  and power it up. 
+If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals(mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plugin a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+
+Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. 
 
 
 # Assembling the Smart Mirror
