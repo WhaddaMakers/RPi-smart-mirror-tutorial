@@ -114,7 +114,7 @@ Displays Reddit gaming topics, featured games, A qoute of the day and a new coct
 Connect your phone/tablet using screen mirroring
 ![UI4](./pictures/Page4.png)
 
-To install our image on your SD card (**MIN. 8GB**) follow the steps below.
+### To install our image on your SD card (**MIN. 8GB**) follow the steps below.
 
 #### 1. Installing Raspberry Pi Imager
 
@@ -129,16 +129,23 @@ Download the SmartMirror.img file above (5.6GB). as mentioned before you will ne
 before we can burn the image file, you will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
 
 * Plug your SD card in the computer. 
-* Wipe it by right clicking on the drive, then choose format ![FRMT1](./pictures/Format1.PNG)
-* Under file System, choose NTFS. the rest should be good by default ![FRMT2](./pictures/Format2.PNG)
+* Wipe it by right clicking on the drive, then choose format 
+![FRMT1](./pictures/Format1.PNG)
+* Under file System, choose NTFS. the rest should be good by default 
+![FRMT2](./pictures/Format2.PNG)
 
 #### 3. Burning the Image
 
-* Open the Raspberry Pi Imager ![IMG1](./pictures/Imager1.PNG)
-* **Click** CHOOSE OS and then select **USE CUSTOM** ![IMG2](./pictures/Imager2.PNG)
-* Navigate and select the SmartMirror.img file you just downloaded ![IMG3](./pictures/Imager3.PNG)
-* Now **click** storage and choose the SD card we formatted earlier. ![IMG4](./pictures/Imager4.PNG)
-* Its time to WRITE the image, this will take several minutes..... ![IMG5](./pictures/Imager5.PNG)
+* Open the Raspberry Pi Imager
+![IMG1](./pictures/Imager1.PNG)
+* **Click** CHOOSE OS and then select **USE CUSTOM** 
+![IMG2](./pictures/Imager2.PNG)
+* Navigate and select the SmartMirror.img file you just downloaded 
+![IMG3](./pictures/Imager3.PNG)
+* Now **click** storage and choose the SD card we formatted earlier. 
+![IMG4](./pictures/Imager4.PNG)
+* Its time to WRITE the image, this will take several minutes..... 
+![IMG5](./pictures/Imager5.PNG)
 
 # Assembling the Smart Mirror
 
