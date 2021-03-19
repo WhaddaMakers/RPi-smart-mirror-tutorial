@@ -203,7 +203,7 @@ The config file also contains a `modules` section that controls which modules ar
 ![RPI12](./pictures/RPI12.png)
 * Each module has its own github page with all the explanation about it here [3rd party modules GitHub](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
 for example the Reddit module settings can u find here: [Reddit module](https://github.com/kjb085/MMM-Reddit)
-![RPI13](./pictures/RPI13.png)
+![RPI13](./pictures/RPI13.PNG)
 
 # Assembling the Smart Mirror
 
