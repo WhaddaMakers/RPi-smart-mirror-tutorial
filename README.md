@@ -50,8 +50,6 @@ strips (optional). There are 3 spare USB ports.
 * **open source-software "MagicMirror²"**
   More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 
-### Level of difficulty: Intermediate
-
 ## MATERIALS
 
 ### Ingredients:
@@ -146,13 +144,23 @@ before we can burn the image file, you will have to format the SD card. ATTENTIO
 * Its time to WRITE the image, this will take several minutes..... 
 ![IMG5](./pictures/Imager5.PNG)
 
-## Understanding the firmware
+## Frst time setup
 
-If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals(mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plugin a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals(mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
-Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. 
+Now wait for it to boot up, this will take couple of minutes depending on what Pi you use.The MagicMirrorsoftware should also start automatically.
 
 
+For now we will just put some settings right, since we not yet assembled the mirror:
+#### 1. Setting your country
+
+
+#### 2. Language setting
+
+
+## The MagicMirror configuration file
+
+This file is located under root
 # Assembling the Smart Mirror
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
