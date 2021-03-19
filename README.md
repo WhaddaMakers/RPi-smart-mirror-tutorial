@@ -85,9 +85,9 @@ strips (optional). There are 3 spare USB ports.
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
 
-## Programming the Rasberry Pi
+## Programming the RasPberry Pi
 
-To install the software onto your Raspberry Pi easily, We've made an image file, that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
+To install the software onto your Raspberry Pi easily, ze've made an image file that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
 #### The front Page 
 It Shows the Date/time, daily news from over the world, Belgium holidays( can be changed to any country), different time zones.... When powering up the PI, u should see this.
@@ -145,17 +145,17 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 ## Frst time setup
 
-If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals (mouse, keyboard, monitor if you're planning to use a seperate monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
+If everything went good in the steps above... you can mount the SD card into the pi and connect all of your peripherals (mouse, keyboard, monitor). Also plug in a network cable if you're planning to use a wired ethernet connection. Power up the pi by connecting it to the USB power supply adapter.
 
-Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirrorsoftware should also start automatically and you should see THE FRONT PAGE.  
+Now wait for it to boot up, this will take couple of minutes depending on what Pi you use. The MagicMirror software should also start automatically and you should see THE FRONT PAGE.  
 
 For now we will just put some settings right, Follow the steps below:
 
-#### 1. Closing the MagicMirror software (For Now)
+#### 1. Close the MagicMirror software (For Now)
 
  * Press `F11` on your keyboard (this will make the MagicMirror window smaller) 
  * then open the terminal with `CTRL + T`
- * Type `pm2 stop mm` this is the command tos stop the MagicMirror Software 
+ * Type `pm2 stop mm` this is the command to stop the MagicMirror Software 
 ![RPI1](./pictures/RPI1.png)
      * other usefull commands are 
         * `pm2 restart mm` restarts the software
@@ -175,27 +175,28 @@ otherwise you can connect to a Wifi acces point by Clicking on the 'connection i
 #### 3. Horizontal or Vertical display
 
 As mentioned before you can choose to hang the Mirror horizontally or vertically. If you are going to hang it horizontally you can skip this.
-if you plan to hang it vertically we will have to change the displaya orientation:
+if you plan to hang it vertically, we will have to change the display orientation:
 * open the terminal with `ctrl + alt + T` and type ` sudo nano /boot/config.txt`
-![RPI4](./pictures/RPI5.png)
+![RPI5](./pictures/RPI5.png)
 * change the line `display_rotate=0` to `display_rotate=1`
-![RPI4](./pictures/RPI6.png)
+![RPI6](./pictures/RPI6.png)
 * Close and save the file wit `CTRL+X` then `ENTER` 
-![RPI4](./pictures/RPI7.png)
+![RPI7](./pictures/RPI7.png)
 * The changes only take effect after a reboot. In the terminal typ `sudo reboot`
+![RPI8](./pictures/RPI8.png)
 
 ### The MagicMirror configuration file
 
 The config file controls some important features of your mirror, as well as the various modules. It is written in JavaScript, this language is very sensitive to syntax errors. for example a misplaced `{` or `}` and the software will not work...
 The config file also contains a `modules` section that controls which modules are loaded and where they’re placed.
 
-### Some Things u need to know!
+### Some things u need to know!
 * The congif.js file is located in the file manager under `/home/pi/MagicMirror/Config`
-![RPI6](./pictures/RPI6.png)
+![RPI9](./pictures/RPI9.png)
 * at the top of the config.js file U can change the unit system: `metric or imperial`, language `en` (uses the official abbreviations) and the timeformat `12 or 24`.
-![RPI7](./pictures/RPI7.png)
+![RPI10](./pictures/RPI10.png)
 * We have divided the config file with the modules per page using brackets
-![RPI8](./pictures/RPI8.png)
+![RPI11](./pictures/RPI11.png)
 *
 
 # Assembling the Smart Mirror
