@@ -109,7 +109,7 @@ Connect your phone/tablet using screen mirroring
 
 ### installing the image on your SD card (**MIN. 8GB**)
 If you like our interface, you can follow the steps below to install it on your Raspberry Pi.
-Otherwise you can download a standard version of the https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
+Otherwise you can download a standard version of the [magicMirror software](https://magicmirror.builders/) and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
 
 #### 1. Installing Raspberry Pi Imager
 
