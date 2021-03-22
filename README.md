@@ -50,28 +50,41 @@ The motion sensor or PIR sensor detects if there is any movement within its rang
 8. **Aukey Power adaptor**  
 We've used an power supply from AUKEY. It has 5X USB 3.0 ports with quick charge function, to power up the Raspberry Pi and the LED
 strips (optional). There are 3 spare USB ports. This Power supply is also integrated in the back plate, but any decent power supply will work.
+
 9. **USB A - USB C cable (min. 50cm long)**
+
 10. **USB A - Micro USB cable (min. 50cm long)**
+
 11. **Sensor Cables 650mm (x3)**
+
 12. **Power cord to C13**
+
 13. **40-PIN ribbon cable Female- Female**
+
 14. **Splitter cord C14 TO C5 & C7**
+
 15. **HDMI - HDMI cable (short as possible, we used 30cm long one)**
+
 16. **Bolts**
       - M2X14 (x2)
       - M2.5x8 (x10)
       - M2.5x5.5 (x2)
       - M4x10 (x4)
+
 17. **Plastic spacer 5mm height M3 (x12)**
+
 18. **Strong double sided tape**
+
 19. **Cable ties (x20)**
+
 20. **open source-software "MagicMirror²"**
 More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
+
 21. **[OPTIONAL] LED strip assembly.**
 The technical drawing can also be downloaded here:[LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
-22. **[OPTIONAL] Side Finishes.**
-  You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
+22. **[OPTIONAL] Side Finishes.**
+You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 ### Tools:
   - USB Keyboard
