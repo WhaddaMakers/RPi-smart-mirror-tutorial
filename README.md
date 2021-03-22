@@ -24,11 +24,11 @@ Below, you can find the specs/features that you need to know before building thi
 We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
 
 2. **Two way mirror glass**  
-The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here [Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf)
+The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here [Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf). A very nice and easy way to get some 2 way mirror glass is here: https://www.pyrasied.nl/en/product/spy-mirror/. You just have fill in the dimensions
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
 3. **Aluminium backplate**  
-The backplate is custom made, the technical drawing and production files can be downloaded Here:[Aluminium backplate files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Aluminium%20Backplate). It has multiple purposes as mentioned before, here is a detailed list:    
+The backplate is custom made, the technical drawing and production files can be downloaded Here: [Aluminium backplate files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Aluminium%20Backplate). It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
@@ -55,7 +55,8 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 
 10. **USB A - Micro USB cable (min. 50cm long)**
 
-11. **Sensor Cables 650mm (x3)**
+11. **Sensor Cables 650mm (x3)**  
+These cables are used to connect the IR and PIR sensor to the Connector board. You can easily make them yourselfs! technical drawing can be downloaded here: [Sensor cables.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Sensorcable.pdf)
 
 12. **Power cord to C13**
 
