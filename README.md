@@ -24,7 +24,7 @@ Below, you can find the specs/features that you need to know before building thi
 We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
 
 2. **Two way mirror glass**  
-The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here [Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf). A very nice and easy way to get some 2 way mirror glass is here: https://www.pyrasied.nl/en/product/spy-mirror/. You just have fill in the dimensions
+The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here [Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf). A very nice and easy way to get some 2 way mirror glass is here: https://www.pyrasied.nl/en/product/spy-mirror/. You just have fill in your dimensions, and it will be shipped within a day.  
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
 3. **Aluminium backplate**  
