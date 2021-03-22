@@ -87,7 +87,7 @@ The technical drawing can also be downloaded here:[LED strip assembly](https://g
 You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 ### Tools:
-  - USB Keyboard
+  - USB Keyboardz
   - USB Mouse
   - Internet connection (WiFi or wired ethernet)
   - Hex keys
