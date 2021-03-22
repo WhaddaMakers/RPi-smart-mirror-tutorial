@@ -14,41 +14,21 @@ The custom designed backplate allows you to: easily mount all the electronics, h
 
 Below, you can find the specs/features that you need to know before building this project!
 
-* **24" LED monitor**  
-  We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
+* 
   
-* **two way mirror glass**  
-  The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque.  
-  The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
-  **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
-  
+* 
  
-* **aluminium backplate**  
-  The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder.  
-    It has multiple purposes as mentioned before, here is a detailed list:    
-  - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
-  - Easy wall mounting in landscape or portrait orientation
-  - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
-    Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
-  
+* 
 * **connector PCB**  
-This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder (if you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB).
-This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
-the need of soldering, and blowing up your Raspberry Pi.
 
-* **IR sensors**  
-  The IR sensors are used to swipe between pages, these are also mounted onto the backplate
 
+*
 * **PIR sensor**  
-  The motion sensor or PIR sensor detects if there is any movement within its range. If so, the mirror will turn on. This is also mountable on the backplate.
 
-* **power supply**  
-We've used an power supply from AUKEY. It has 5X USB 3.0 ports with quick charge function, to power up the Raspberry Pi and the LED
-strips (optional). There are 3 spare USB ports.
-  This Power supply is also integrated in the back plate, but any decent power supply will work.
+
+* 
   
-* **open source-software "MagicMirror²"**
-  More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
+
 
 ## MATERIALS
 
@@ -56,16 +36,33 @@ strips (optional). There are 3 spare USB ports.
 
 ### Ingredients:
 
-1. 24" monitor with HDMI input
-2. Two way mirror glass
-3. Aluminium Backplate
+1. **24" LED monitor**  
+  - We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
+2. **two way mirror glass**  
+  - The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
+  **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
+  
+3. **aluminium backplate**  
+  - The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder. It has multiple purposes as mentioned before, here is a detailed list:    
+  - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
+  - Easy wall mounting in landscape or portrait orientation
+  - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
+    Check out the picture below for an example with lasercut plywood of 6mm thick with a side finish. The lasercut files are also available for download above.
+  
 4. Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
     - \>= 8 GB MicroSD Card
-5. Connector PCB
-6. [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
-7. [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/)
-8. Aukey Power adaptor
+5. This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder (if you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB).
+This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
+the need of soldering, and blowing up your Raspberry Pi.
+6. [**IR sensor (VMA330)**](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
+  The IR sensors are used to swipe between pages, these are also mounted onto the backplate
+
+7. [**PIR motion sensor (WPSE314)**](https://whadda.com/product/pir-motion-sensor-wpse314/) 
+The motion sensor or PIR sensor detects if there is any movement within its range. If so, the mirror will turn on. This is also mountable on the backplate.
+8. **Aukey Power adaptor**  
+We've used an power supply from AUKEY. It has 5X USB 3.0 ports with quick charge function, to power up the Raspberry Pi and the LED
+strips (optional). There are 3 spare USB ports. This Power supply is also integrated in the back plate, but any decent power supply will work.
 9. USB A - USB C cable (min. 50cm long)
 10. USB A - Micro USB cable (min. 50cm long)
 11. Sensor Cables 650mm (x3)
@@ -82,6 +79,8 @@ strips (optional). There are 3 spare USB ports.
 18. Strong double sided tape
 19. Cable ties (x20)
 * [OPTIONAL] LED strip assembly
+**open source-software "MagicMirror²"**
+More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 
 ### Tools:
   - USB Keyboard
