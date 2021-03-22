@@ -62,15 +62,15 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
       - M2.5x8 (x10)
       - M2.5x5.5 (x2)
       - M4x10 (x4)
-17. **Plastic spacer 5mm height M3 (x12) **
+17. **Plastic spacer 5mm height M3 (x12)**
 18. **Strong double sided tape**
 19. **Cable ties (x20)**
 20. **open source-software "MagicMirror²"**
-More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
-/(21). **[OPTIONAL] LED strip assembly.**
-/The technical drawing can also be downloaded here:[LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
-/(22). **[OPTIONAL] Side Finishes.**
-You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
+  More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
+  (21). **[OPTIONAL] LED strip assembly.**
+  The technical drawing can also be downloaded here:[LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
+  (22). **[OPTIONAL] Side Finishes.**
+  You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 
 ### Tools:
