@@ -23,11 +23,11 @@ Below, you can find the specs/features that you need to know before building thi
 1. **24" LED monitor**  
 We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
 
-2. **two way mirror glass**  
-The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded above (two-way mirror.PDF).  
+2. **Two way mirror glass**  
+The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here ![Ingredients](./pictures/Ingerdients.png)
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
-3. **aluminium backplate**  
+3. **Aluminium backplate**  
 The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder. It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
@@ -67,7 +67,8 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 19. **Cable ties (x20)**
 20. **open source-software "MagicMirror²"**
 More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
-* [OPTIONAL] LED strip assembly
+* [OPTIONAL] LED strip assembly.
+The technical drawing can also be downloaded here: LED strip assembly
 
 
 ### Tools:
