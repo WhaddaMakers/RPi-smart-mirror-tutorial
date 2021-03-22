@@ -28,7 +28,7 @@ The glass is custom made and has a translucency of about 35%. The borders of the
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
 3. **Aluminium backplate**  
-The backplate is custom made, the technical drawing and production files can be downloaded Here:!Aluminium backplate](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf). It has multiple purposes as mentioned before, here is a detailed list:    
+The backplate is custom made, the technical drawing and production files can be downloaded Here:![Aluminium backplate files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Aluminium%20Backplate). It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
