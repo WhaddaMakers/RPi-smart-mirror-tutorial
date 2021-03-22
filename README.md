@@ -38,7 +38,7 @@ The backplate is custom made, the technical drawing and production files can be 
     - Raspberry Pi (3B/B+ or 4B)
     - \>= 8 GB MicroSD Card
 5. **Connector PCB** 
-This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded above in the Connector PCB folder (if you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB). This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
+This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded here: [Connector PCB Files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Connector%20PCB) (If you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB.) This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
 6. [**IR sensor (VMA330)**](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
@@ -68,7 +68,9 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 20. **open source-software "MagicMirror²"**
 More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 * [OPTIONAL] LED strip assembly.
-The technical drawing can also be downloaded here: LED strip assembly
+The technical drawing can also be downloaded here:![LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
+* [OPTIONAL] Side Finishes.
+You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 
 ### Tools:
