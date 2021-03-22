@@ -216,9 +216,11 @@ for example the Reddit module settings can u find here: [Reddit module](https://
 
 Now that you have the software installed, and know all the necessary information about the parts, it is time to start making the smart mirror. This will probably take up to 2 hours (when you have all parts already).
 
-WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, the backplate is designed to hang horizontal or vertical.
-
-## MOUNTING  THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
+WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, the backplate is designed to hang horizontal or vertical.  
+The only difference between the horizontal and vertical way, is the location of the IR and PIR sensor on the backplate. Below and illustrarion.
+[LANDSCAPE ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Landscape.jpg)
+[PORTRAIT ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Portrait.jpg
+## MOUNTING THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
 
 #### 1. Place the ALUMINIUM BACK PLATE on its flat side.
 
@@ -423,8 +425,8 @@ As metioned earlier, u can customize the sides of your mirror with any material 
 
 The 8 brackets (2 on each sdie) on the BACKPLATE that will hold the side plates are threaded with M4 thread. so you will need 8 M4 bolts. The length of these bolts depends on the thickness from the material you are going to use.
 
-HORIZONTAL/VERTICAL side plates: depending on which orientation you have chosen to hang up the mirror, there are different side plates.
-RED RECTANGLE: VERTICAL MOUNT
+HORIZONTAL/VERTICAL side plates: depending on which orientation you have chosen to hang up the mirror, there are different side plates.  
+RED RECTANGLE: VERTICAL MOUNT  
 BLUE RECTANGLE: HORIZONTAL MOUNT
 ![Sidefinish](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/73.jpg)
 
