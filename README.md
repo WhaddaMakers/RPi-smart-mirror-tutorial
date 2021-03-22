@@ -24,11 +24,11 @@ Below, you can find the specs/features that you need to know before building thi
 We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
 
 2. **Two way mirror glass**  
-The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here ![Ingredients](./pictures/Ingerdients.png)
+The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here ![Two-way mirror](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf)
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
 3. **Aluminium backplate**  
-The backplate is custom made, the technical drawing and production files can be downloaded above in the Aluminium backplate folder. It has multiple purposes as mentioned before, here is a detailed list:    
+The backplate is custom made, the technical drawing and production files can be downloaded Here. It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
