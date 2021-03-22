@@ -55,32 +55,33 @@ strips (optional). There are 3 spare USB ports.
 ![Ingredients](./pictures/Ingerdients.png)
 
 ### Ingredients:
-* Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
+
+* 1. 24" monitor with HDMI input
+* 2. Two way mirror glass
+* 3. Aluminium Backplate
+* 4. Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
     - \>= 8 GB MicroSD Card
-* 24" monitor with HDMI input
-* Two way mirror glass
-* Aluminium Backplate
-* [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
-* [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/)
-* Sensor Cables 650mm (x3)
-* USB A - Micro USB cable (min. 50cm long)
-* USB A - USB C cable (min. 50cm long)
-* Connector PCB
+* 5. Connector PCB
+* 6. [IR sensor (VMA330)](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
+* 7. [PIR motion sensor (WPSE314)](https://whadda.com/product/pir-motion-sensor-wpse314/)
+* 8. Aukey Power adaptor
+* 9. USB A - USB C cable (min. 50cm long)
+* 10. USB A - Micro USB cable (min. 50cm long)
+* 11. Sensor Cables 650mm (x3)
+* 12. Power cord to C13
+* 13. 40-PIN ribbon cable Female- Female
+* 14. Splitter cord C14 TO C5 & C7
+* 15. HDMI - HDMI cable (short as possible, we used 30cm long one)
+* 16. Bolts
+      - M2X14 (x2)
+      - M2.5x8 (x10)
+      - M2.5x5.5 (x2)
+      - M4x10 (x4)
+* 17. Plastic spacer 5mm height M3 (x12)
+* 18. Strong double sided tape
+* 19. Cable ties (x20)
 * [OPTIONAL] LED strip assembly
-* Cable ties (x20)
-* Aukey Power adaptor
-* Power cord to C13
-* Splitter cord C14 TO C5 & C7
-* Bolts
-   - M2X14 (x2)
-   - M2.5x8 (x10)
-   - M2.5x5.5 (x2)
-   - M4x10 (x4)
-* 40-PIN ribbon cable Female- Female
-* HDMI - HDMI cable (short as possible, we used 30cm long one)
-* Plastic spacer 5mm height M3 (x12)
-* Strong double sided tape
 
 ### Tools:
   - USB Keyboard
