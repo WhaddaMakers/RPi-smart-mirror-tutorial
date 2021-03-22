@@ -24,11 +24,11 @@ Below, you can find the specs/features that you need to know before building thi
 We used a 24 inch LED monitor from LVC. But any monitor with a HDMI input will work!
 
 2. **Two way mirror glass**  
-The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here ![Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf)
+The glass is custom made and has a translucency of about 35%. The borders of the mirror are opaque. The Technical drawing for this glass can be downloaded here [Two-way mirror.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/Two-way%20mirror.pdf)
 **PAY ATTENTION:** the dimensions of the glass are based on the LED monitor we use! Be sure to adjust them to your monitor.
   
 3. **Aluminium backplate**  
-The backplate is custom made, the technical drawing and production files can be downloaded Here:![Aluminium backplate files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Aluminium%20Backplate). It has multiple purposes as mentioned before, here is a detailed list:    
+The backplate is custom made, the technical drawing and production files can be downloaded Here:[Aluminium backplate files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Aluminium%20Backplate). It has multiple purposes as mentioned before, here is a detailed list:    
   - Concealment for the wires and electronics like the Raspberry Pi, infrared sensors, motion sensor, power supply, connector board
   - Easy wall mounting in landscape or portrait orientation
   - Brackets with threaded holes, so you can customize the sides of your mirror in any material like wood, metal, plastic….. Max. thickness of the material should be: 10mm.
@@ -57,7 +57,7 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 13. **40-PIN ribbon cable Female- Female**
 14. **Splitter cord C14 TO C5 & C7**
 15. **HDMI - HDMI cable (short as possible, we used 30cm long one)**
-16. **Bolts
+16. **Bolts**
       - M2X14 (x2)
       - M2.5x8 (x10)
       - M2.5x5.5 (x2)
@@ -67,9 +67,9 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 19. **Cable ties (x20)**
 20. **open source-software "MagicMirror²"**
 More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
-* [OPTIONAL] LED strip assembly.
-The technical drawing can also be downloaded here:![LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
-* [OPTIONAL] Side Finishes.
+(21). **[OPTIONAL] LED strip assembly.**
+The technical drawing can also be downloaded here:[LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
+(22). **[OPTIONAL] Side Finishes.**
 You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 
