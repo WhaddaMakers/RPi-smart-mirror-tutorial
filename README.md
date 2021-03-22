@@ -218,8 +218,8 @@ Now that you have the software installed, and know all the necessary information
 
 WE WILL ASSEMBLE A HORIZONTAL VERSION OF THE SMART MIRROR. As metioned before, the backplate is designed to hang horizontal or vertical.  
 The only difference between the horizontal and vertical way, is the location of the IR and PIR sensor on the backplate. Below and illustrarion.
-[LANDSCAPE ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Landscape.jpg)
-[PORTRAIT ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Portrait.jpg
+![LANDSCAPE ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Landscape.jpg)
+![PORTRAIT ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Portrait.jpg
 ## MOUNTING THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
 
 #### 1. Place the ALUMINIUM BACK PLATE on its flat side.
