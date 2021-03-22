@@ -52,6 +52,8 @@ strips (optional). There are 3 spare USB ports.
 
 ## MATERIALS
 
+![Ingredients](./pictures/Ingredients.png)
+
 ### Ingredients:
 * Raspberry Pi 3B/B+ or 4B set, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
