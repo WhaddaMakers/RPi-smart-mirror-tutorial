@@ -37,14 +37,14 @@ The backplate is custom made, the technical drawing and production files can be 
 4. **Raspberry Pi 3B/B+ or 4B set**, which can be found in the [Whadda PI4SET](https://www.whadda.com/product/raspberry-pi-4-2gb-starter-kit-pi4set/)
     - Raspberry Pi (3B/B+ or 4B)
     - \>= 8 GB MicroSD Card
-5. **Connector PCB** 
+5. **Connector PCB**  
 This is a custom designed PCB that extends some of the GPIO pins of the Raspberry Pi. The production files and schematic can be downloaded here: [Connector PCB Files](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/tree/main/Connector%20PCB) (If you search on google for a PCB manufacturer, upload the production files we provided, you will get an instant quote and in most cases it only takes a few days to make the actual PCB.) This board allows you to easily connect the infrared sensors, motion sensor and safely power LED strips without
 the need of soldering, and blowing up your Raspberry Pi.
 
-6. [**IR sensor (VMA330)**](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)
+6. [**IR sensor (VMA330)**](https://whadda.com/product/ir-obstacle-avoidance-sensor-module-vma330/)  
 The IR sensors are used to swipe between pages, these are also mounted onto the backplate
 
-7. [**PIR motion sensor (WPSE314)**](https://whadda.com/product/pir-motion-sensor-wpse314/) 
+7. [**PIR motion sensor (WPSE314)**](https://whadda.com/product/pir-motion-sensor-wpse314/)  
 The motion sensor or PIR sensor detects if there is any movement within its range. If so, the mirror will turn on. This is also mountable on the backplate.
 
 8. **Aukey Power adaptor**  
