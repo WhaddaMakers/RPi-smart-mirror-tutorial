@@ -77,13 +77,13 @@ strips (optional). There are 3 spare USB ports. This Power supply is also integr
 
 19. **Cable ties (x20)**
 
-20. **open source-software "MagicMirror²"**
+20. **open source-software "MagicMirror²"**  
 More information about this software can be found here: ([MagicMirrorsoftware](https://magicmirror.builders/))
 
-21. **[OPTIONAL] LED strip assembly.**
+21. **[OPTIONAL] LED strip assembly.**  
 The technical drawing can also be downloaded here:[LED strip assembly](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/LED%20strip%20assembly.pdf)
 
-22. **[OPTIONAL] Side Finishes.**
+22. **[OPTIONAL] Side Finishes.**  
 You van customize the sides of your mirror with any material you like that has a maximum thickness of 10 mm. We did it with 6mm thick lasercutted OKOUMÉ wood. The Lasercut files can be downloaded here: [Side Finishes.pdf](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/SideFinishes-Lasercut.pdf)
 
 ### Tools:
