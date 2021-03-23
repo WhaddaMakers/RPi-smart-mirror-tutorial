@@ -98,19 +98,19 @@ You van customize the sides of your mirror with any material you like that has a
 
 To install the software onto your Raspberry Pi easily, we've made an image file that contains Raspbian (the standard Raspberry Pi OS) and the MagicMirror software with a variety of fun modules already installed. See the pictures below to discover how we designed the interface.
 
-#### The front Page 
+**The front Page** 
 It Shows the Date/time, daily news from over the world, Belgium holidays( can be changed to any country), different time zones.... When powering up the PI, u should see this.
 ![UI1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Page1.png)
 
-#### Page 2 
+**Page 2** 
 The "SPACE" page. It shows various information about past en future space travels, LIVE ISS footage, current moonphase.... 
 ![UI2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Page2.png)
 
-##### Page 3 
+**Page 3**
 Displays Reddit gaming topics, featured games, A qoute of the day and a new coctail every day!
 ![UI3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Page3.png)
 
-##### Page 4 
+**Page 4** 
 Connect your phone/tablet using screen mirroring
 ![UI4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Page4.png)
 
@@ -118,16 +118,16 @@ Connect your phone/tablet using screen mirroring
 If you like our interface, you can follow the steps below to install it on your Raspberry Pi.
 Otherwise you can download a standard version of the [magicMirror software](https://magicmirror.builders/) and design your own interface! This is also very fun and easy to do! Just follow [this guide](https://docs.magicmirror.builders/).
 
-#### 1. Installing Raspberry Pi Imager
+1. Installing Raspberry Pi Imager
 
 To burn the image on an SD card, we wil need a software to do this. Download the [Raspberry Pi Imager](https://www.raspberrypi.org/software/) here. Then run the installer and follow the prompts to complete the setup.
 ![IMG1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Imager1.PNG)
 
-#### 2. Downloading the Image
+2. Downloading the Image
 
 Download the SmartMirror.img file above (5.6GB). As mentioned before, you will need an SD card with a minimum storage of 8GB.
 
-#### 3. Formating your SD card
+3. Formating your SD card
 
 Before we can burn the image file, We will have to format the SD card. ATTENTION, this will delete all the files on the SD card.
 
@@ -140,7 +140,7 @@ Before we can burn the image file, We will have to format the SD card. ATTENTION
 
 ![FRMT2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Format2.PNG)
 
-#### 3. Burning the Image
+4. Burning the Image
 
 * Open the Raspberry Pi Imager
 * **Click** CHOOSE OS and then select **USE CUSTOM** 
@@ -160,7 +160,7 @@ Now wait for it to boot up, this will take couple of minutes depending on what P
 
 For now we will just put some settings right, Follow the steps below:
 
-#### 1. Close the MagicMirror software (For Now)
+1. Close the MagicMirror software (For Now)
 
  * Press `F11` on your keyboard (this will make the MagicMirror window smaller) 
  * then open the terminal with `CTRL + ALT + T`
@@ -175,13 +175,13 @@ For now we will just put some settings right, Follow the steps below:
      * Then click `Keyboard layout` and select you country under the drop down menu. 
 ![RPI3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/RPI3.png)
 
-#### 2. Connecting with WiFi
+2. Connecting with WiFi
 
 If you are going use an ehternet (UTP) cable you can skip this step.
 otherwise you can connect to a Wifi acces point by Clicking on the 'connection icon' in the top right corner...
 ![RPI4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/RPI4.png)
 
-#### 3. Horizontal or Vertical display
+3. Horizontal or Vertical display
 
 As mentioned before you can choose to hang the Mirror horizontally or vertically. If you are going to hang it horizontally you can skip this.
 if you plan to hang it vertically, we will have to change the display orientation:
@@ -224,200 +224,200 @@ The only difference between the horizontal and vertical way, is the location of 
 ![PORTRAIT ORIENTATION](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/Portrait.jpg)
 ## MOUNTING THE ELECTRONICS ON THE ALUMINIUM BACK PLATE
 
-#### 1. Place the ALUMINIUM BACK PLATE on its flat side.
+1. Place the ALUMINIUM BACK PLATE on its flat side.
 
 ![Plate](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/1.jpg)
 
-#### 2. The first things we will mount are the IR SENSORS. Collect them, together with 2x SPACERS and 2x M2.5x8 BOLTS.
+2. The first things we will mount are the IR SENSORS. Collect them, together with 2x SPACERS and 2x M2.5x8 BOLTS.
 ![IR+Spacerr](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/2.jpg)
 
-#### 3. Place the SPACER over the hole in the bottom left of the BACK PLATE.
+3. Place the SPACER over the hole in the bottom left of the BACK PLATE.
 ![SPACER+MOUNT](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/3.jpg)
 
-#### 4. Place the IR SENSOR on the SPACER as shown in the picture below. Allign the hole from the IR SENSOR with the hole from the SPACER and the BACK PLATE.
+4. Place the IR SENSOR on the SPACER as shown in the picture below. Allign the hole from the IR SENSOR with the hole from the SPACER and the BACK PLATE.
 ![SPACER+IR+MOUNT](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/4.jpg)
 
-#### 5. Screw the M2.5x8 BOLT into place.
+5. Screw the M2.5x8 BOLT into place.
 ![SSCREWIR1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/5.jpg)
 
-#### 6. Repeat the last 3 steps for the IR sensor at the bottom right of the BACK PLATE.
+6. Repeat the last 3 steps for the IR sensor at the bottom right of the BACK PLATE.
 ![SSCREWIR2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/6.jpg)
 
-#### 7. You should now be at this point:
+7. You should now be at this point:
 ![point1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/7.jpg)
 
-#### 8. Now take the PIR SENSOR and the 2x M2x14 BOLTS.
+8. Now take the PIR SENSOR and the 2x M2x14 BOLTS.
 ![PIR](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/8.jpg)
 
-#### 9. Place the PIR sensor on the bottom "lip" of the BACK PLATE and screw it into place. ATTETTION: IF YOU WANT TO MOUNT IT VERTICAL, PLACE THE PIR SENSOR ON THE LEFT "LIP".
+9. Place the PIR sensor on the bottom "lip" of the BACK PLATE and screw it into place. ATTETTION: IF YOU WANT TO MOUNT IT VERTICAL, PLACE THE PIR SENSOR ON THE LEFT "LIP".
 ![PIRscrew1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/9.jpg)
 
-#### 10. Screw the other BOLT into place.
+10. Screw the other BOLT into place.
 ![PIRscrew2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/10.jpg)
 
-#### 11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one).
+11. Take the aukey POWER SUPPLY (any decent power supply will work, but the BACK PLATE is designed with this one).
 ![AUKEY](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/11.jpg)
 
-#### 11. Place the POWER SUPPLY in the slot of the BACK PLATE as shown in the pictures below. NOTE THE ORIENTATION!
+12. Place the POWER SUPPLY in the slot of the BACK PLATE as shown in the pictures below. NOTE THE ORIENTATION!
 ![AUKEYM1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/12.jpg)
 ![AUKEYM2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/13.jpg)
 
-#### 11. Tighten the power supply with 2x M2.5x5.5 BOLTS.
+13. Tighten the power supply with 2x M2.5x5.5 BOLTS.
 ![AUKEYM3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/14.jpg)
 
-#### 12. Take the cable assemblies. As mentioned earlier, you can make these yourself easily.
+14. Take the cable assemblies. As mentioned earlier, you can make these yourself easily.
 ![Cable](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/15.jpg)
 
-#### 13. Connect the cables to the 2 IR SENSORS and PIR sensor as shown in the picture below (see connection diagram for connections).
+15. Connect the cables to the 2 IR SENSORS and PIR sensor as shown in the picture below (see connection diagram for connections).
 ![CableConnect](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/16.jpg)
 
-#### 14. Place a zip tie around the cable of the left IR SENSOR. Then cut off the excess with cut pliers.
+16. Place a zip tie around the cable of the left IR SENSOR. Then cut off the excess with cut pliers.
 ![Zip1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/17.jpg)
 ![Zip2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/18.jpg)
 
-#### 15. Grab your RPI, the 4x SPACERS and the 4x M2.5x8 BOLTS.
+17. Grab your RPI, the 4x SPACERS and the 4x M2.5x8 BOLTS.
 ![RPI](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/19.jpg)
 
-#### 16. Place the SPACERS onto the 4 holes (sligtly on the left of the bottom middle) of the BACKPLATE.
+18. Place the SPACERS onto the 4 holes (sligtly on the left of the bottom middle) of the BACKPLATE.
 ![RPISpacers](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/20.jpg)
 
-#### 17. Place the RPI on the SPACERS, allign the holes from the RPI with the holes from the SPACERS and the BACK PLATE.
+19. Place the RPI on the SPACERS, allign the holes from the RPI with the holes from the SPACERS and the BACK PLATE.
 ![RPIMOUNT](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/21.jpg)
 
-#### 17. Thighten the RPI with 4x M2.5x8 BOLTS.
+20. Thighten the RPI with 4x M2.5x8 BOLTS.
 ![RPIScrew1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/22.jpg)
 ![RPIScrew2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/23.jpg)
 
-#### 18. Place a zip tie around the cable of the PIR SENSOR. Don't forget to cut off the excess material.
+21. Place a zip tie around the cable of the PIR SENSOR. Don't forget to cut off the excess material.
 ![PIRZIP](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/24.jpg)
 ![PIRZIP2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/25.jpg)
 
-#### 19. Now place zip ties around the PIR and IR SENSOR CABBLES as shown in the picture below.
+22. Now place zip ties around the PIR and IR SENSOR CABBLES as shown in the picture below.
 ![PIRZIP3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/26.jpg)
 ![PIRZIP4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/27.jpg)
 
-#### 20. Take the CONNECTOR BOARD, 4x SPACERS and 4X M2,5X8 BOLTS.
+23. Take the CONNECTOR BOARD, 4x SPACERS and 4X M2,5X8 BOLTS.
 ![CB](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/28.jpg)
 
-#### 21. Place the SPACERS onto the 4 holes (sligtly on the right of the bottom middle) of the BACKPLATE.
+24. Place the SPACERS onto the 4 holes (sligtly on the right of the bottom middle) of the BACKPLATE.
 ![CBspacers](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/29.jpg)
 
-#### 22. Place the CONNECTOR BOARD on the SPACERS. Again, allign the holes from the CONNECTOR BOARD with the holes from the SPACERS and the BACK PLATE.
+25. Place the CONNECTOR BOARD on the SPACERS. Again, allign the holes from the CONNECTOR BOARD with the holes from the SPACERS and the BACK PLATE.
 ![CBMOUNT](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/30.jpg)
 
-#### 23. Tighten the CONNECTOR BOARD with the 4x M2.5x8 BOLTS.
+26. Tighten the CONNECTOR BOARD with the 4x M2.5x8 BOLTS.
 ![CBMOUNT2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/31.jpg)
 
-#### 24. Connect the LEFT IR SENSOR and PIR SENSOR to the connector board. (Check out the connection diagram)
+27. Connect the LEFT IR SENSOR and PIR SENSOR to the connector board. (Check out the connection diagram)
 ![CBCONNECT1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/32.jpg)
 
-#### 25. Secure the CABLES from the RIGHT IR SENSOR with 2 ZIP TIES on the BACK PLATE, as shown in the picture below.
+28. Secure the CABLES from the RIGHT IR SENSOR with 2 ZIP TIES on the BACK PLATE, as shown in the picture below.
 ![CABLERIGHTIR](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/33.jpg)
 
-#### 26. Take the UBS A - MICRO USB CABLE (USB A - USB C if u use a RPI4).
+29. Take the UBS A - MICRO USB CABLE (USB A - USB C if u use a RPI4).
 ![MicroUSB](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/34.jpg)
 
-#### 27. Connect the Micro USB to the RPI.
+30. Connect the Micro USB to the RPI.
 ![RPIconnect](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/35.jpg)
 
-#### 28. Secure the USB A - MICRO USB CABLE and the cable from the LEFT IR sensor with a zip tie.
+31. Secure the USB A - MICRO USB CABLE and the cable from the LEFT IR sensor with a zip tie.
 ![usBZip](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/36.jpg)
 
-#### 29. Then secure the rest of the USB A - MICRO USB cable with 2 zip ties as shown in the picture below.
+32. Then secure the rest of the USB A - MICRO USB cable with 2 zip ties as shown in the picture below.
 ![USBzip2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/37.jpg)
 
-#### 30. Take your USB A- USB C CABLE and connect it to the CONNECTOR BOARD.
+33. Take your USB A- USB C CABLE and connect it to the CONNECTOR BOARD.
 ![CBUSB](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/38.jpg)
 
-#### 31. Secure the USB A - USB C CABLE with 2 zip ties as shown in the picture below. Do not secure the others yet!
+34. Secure the USB A - USB C CABLE with 2 zip ties as shown in the picture below. Do not secure the others yet!
 ![USBCzip1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/39.jpg)
 ![USBCzip2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/40.jpg)
 
-#### 32. Connect the USB A - USB C CABLE to the power supply. Roll up the excess of the cable (CABLE MANAGEMENT is important!).
+35. Connect the USB A - USB C CABLE to the power supply. Roll up the excess of the cable (CABLE MANAGEMENT is important!).
 ![PowerConnect1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/41.jpg)
 
-#### 33. Now connect the USB A - MICRO USB CABLE to the power supply. Again, roll up the excess of the cable.
+36 Now connect the USB A - MICRO USB CABLE to the power supply. Again, roll up the excess of the cable.
 ![Cpowerconnect2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/42.jpg)
 
-#### 34. Secure the 2 USB cables with zip ties.
+37 Secure the 2 USB cables with zip ties.
 ![USBZip](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/43.jpg)
 ![USBZip2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/44.jpg)
 
-#### 35. You should be at this point right now.
+38. You should be at this point right now.
 ![POINT2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/45.jpg)
 
-#### 36. Take the POWER - C13 CORD, and the C14 to C5 and C7 SPLITTER CORD.
+39. Take the POWER - C13 CORD, and the C14 to C5 and C7 SPLITTER CORD.
 ![SplitterCord](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/46.jpg)
 
-#### 37. Connect the POWER CORDS C13 to the C14 of the SPLITTER CORD.
+40 Connect the POWER CORDS C13 to the C14 of the SPLITTER CORD.
 ![SplitterCord2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/47.jpg)
 ![SplitterCord3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/48.jpg)
 
-#### 38. Place the cable assembly on the backplate as shown in the picture below. Pay attention to the orrientatien (the SPLITTER CORD needs to be upwards).
+41. Place the cable assembly on the backplate as shown in the picture below. Pay attention to the orrientatien (the SPLITTER CORD needs to be upwards).
 ![SplitterCord4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/49.jpg)
 
-#### 39. Then secure it with zip ties!
+42. Then secure it with zip ties!
 ![SplitterCord5](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/50.jpg)
 ![SplitterCord6](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/51.jpg)
 
-#### 40. The project should look like this by now.
+43. The project should look like this by now.
 ![point3](./pictures/52.jpg)
 
-#### 41. Secure the C5 cable end from the splitter cord with a zip tie like in the picture below.
+44. Secure the C5 cable end from the splitter cord with a zip tie like in the picture below.
 ![C5](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/53.jpg)
 
-#### 42. Connect the C7 CABLE end from the splitter cord to the power supply.
+45. Connect the C7 CABLE end from the splitter cord to the power supply.
 ![C7](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/54.jpg)
 
-#### 43.Secure the C7 CABLE end with zip ties.
+46.Secure the C7 CABLE end with zip ties.
 ![C7ZIP1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/55.jpg)
 ![C7ZIP2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/56.jpg)
 
-#### 44. Take your 40PIN RIBBON CABLE, and connect it to the CONNECTOR BOARD. Note the orientation of the RIBBON CABLE!
+47. Take your 40PIN RIBBON CABLE, and connect it to the CONNECTOR BOARD. Note the orientation of the RIBBON CABLE!
 ![RIBBON1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/57.jpg)
 
-#### 45. Connect the other end of the RIBBON CABLE tot the RPi. Fold the RIBBON CABLE like in the picture below!
+48. Connect the other end of the RIBBON CABLE tot the RPi. Fold the RIBBON CABLE like in the picture below!
 ![CRIBBON2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/58.jpg)
 
-#### 46. Take your HDMI - HDMI CABLE. (If you are using a RPi 4 this wil be MICRO HDMI - HDMI).
+49. Take your HDMI - HDMI CABLE. (If you are using a RPi 4 this wil be MICRO HDMI - HDMI).
 ![HDMI](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/59.jpg)
 
-#### 47. Connect the HDMI CABLE to your RPi.
+50. Connect the HDMI CABLE to your RPi.
 ![HDMICONNECT](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/60.jpg)
 
-#### 48. All the electronics are now mounted on the BACK PLATE. Everything should look like this:
+51. All the electronics are now mounted on the BACK PLATE. Everything should look like this:
 ![POINT4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/61.jpg)
 
 ## MOUNTING THE BACK PLATE ONTO THE MONITOR
 
-#### 1. Place the MONITOR WITH MIRRORGLASS in front of you, faced down. BE CAREFUL TO NOT SCRATCH THE MIRROR GLASS: Put something underneath it like a blanket or some foam!
+1. Place the MONITOR WITH MIRRORGLASS in front of you, faced down. BE CAREFUL TO NOT SCRATCH THE MIRROR GLASS: Put something underneath it like a blanket or some foam!
 ![Monitor](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/62.jpg)
 
-#### 2.(OPTIONAL) stick the LED STRIP ASSEMBLY on the back of the glass. PAY ATTENTION TO WHERE THE CONNECTOR IS LOCATED!
+2.(OPTIONAL) stick the LED STRIP ASSEMBLY on the back of the glass. PAY ATTENTION TO WHERE THE CONNECTOR IS LOCATED!
 ![Ledstrip](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/63.jpg)
 
-#### 3. Place the BACKPLATE under the MONITOR/MIRRORGLASS ASSEMBLY, note the orientation!
+3. Place the BACKPLATE under the MONITOR/MIRRORGLASS ASSEMBLY, note the orientation!
 ![MountMirror1](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/64.jpg)
 
-#### 4. Plug in the HDMI cable to the MONITORS HDMI PORT.
+4. Plug in the HDMI cable to the MONITORS HDMI PORT.
 ![MountMirror2](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/65.jpg)
 
-#### 5. (OPTIONAL) Plug in the LED STRIP ASSEMBLY to the CONNECTOR BOARD.
+5. (OPTIONAL) Plug in the LED STRIP ASSEMBLY to the CONNECTOR BOARD.
 ![MountMirror3](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/66.jpg)
 
-#### 6. Carefully turn the BACK PLATE on the monitor, make sure the C5 CONNECTOR is still accessible.
+6. Carefully turn the BACK PLATE on the monitor, make sure the C5 CONNECTOR is still accessible.
 ![MountMirror4](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/67.jpg)
 
-#### 7. Plug in the C5 CONNECTOR to the MONITORS POWER INPUT
+7. Plug in the C5 CONNECTOR to the MONITORS POWER INPUT
 ![MountMirror5](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/68.jpg)
 
-#### 8. Now align the holes of the BACK PLATE with the mounting holes of the MONITOR.
+8. Now align the holes of the BACK PLATE with the mounting holes of the MONITOR.
 ![MountMirror6](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/69.jpg)
 
-#### 9. Now fasten it with 4X M4X10 BOLTS.
+9. Now fasten it with 4X M4X10 BOLTS.
 ![MountMirror7](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/70.jpg)
 
-#### 10. The project should look like this:
+10. The project should look like this:
 ![MountMirror8](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/71.jpg)
 ![MountMirror9](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/72.jpg)
 
@@ -432,10 +432,10 @@ RED RECTANGLE: VERTICAL MOUNT
 BLUE RECTANGLE: HORIZONTAL MOUNT
 ![Sidefinish](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/73.jpg)
 
-#### 1. Take 8 x M4 BOLTS. As metioned earlier, the lentgh depends on the tickness of your side plates. We used M4x12.
+1. Take 8 x M4 BOLTS. As metioned earlier, the lentgh depends on the tickness of your side plates. We used M4x12.
 ![Bolts](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/74.jpg)
 
-#### 2. Screw the BOLTS into place as shown in the pictures below, each side plate will require 2 BOLTS
+2. Screw the BOLTS into place as shown in the pictures below, each side plate will require 2 BOLTS
 ![Bolts](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/75.jpg)
 ![Bolts](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/76.jpg)
 ![Bolts](https://github.com/WhaddaMakers/RPi-smart-mirror-tutorial/blob/main/pictures/77.jpg)
