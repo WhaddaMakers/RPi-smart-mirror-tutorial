@@ -125,7 +125,7 @@ To burn the image on an SD card, we wil need a software to do this. Download the
 
 2. Downloading the Image
 
-Download the SmartMirror.img file here (5.6GB). As mentioned before, you will need an SD card with a minimum storage of 8GB.
+Download the [SmartMirror.img file here](https://vellemannv-my.sharepoint.com/:u:/g/personal/nl_velleman_eu/Ec2FuVrew2tAuC-MtwDtA-YBg7QIPWE4yS98sd85Sadz6A?e=2RAaIE) file here  (5.6GB). As mentioned before, you will need an SD card with a minimum storage of 8GB.
 
 3. Formating your SD card
 
